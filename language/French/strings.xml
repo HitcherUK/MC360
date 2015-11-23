@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="31002">Jeux</string>
+  <string id="31003">Media</string>
+
+  <string id="31005">Système</string>
+
+  <string id="31008">Vidéos</string>
+  <string id="31009">Guide MC360</string>
+  <string id="31010">Capacités</string>
+  <!-- These Blade Headers should be in LOWER CASE, no capitol first letters -->
+  <string id="31011">jeux</string>
+  <string id="31012">media</string>
+
+  <string id="31014">système</string>
+
+  <string id="31018">xbmc live</string>
+  <!-- End of LOWER CASE headers -->
+  <string id="31019">Login</string>
+  <string id="31020">Messages</string>
+  <string id="31021">Amis</string>
+  <string id="31022">Connexion Xlink Kai</string>
+  <string id="31023">Xlink KAI Non Connecté</string>
+  <string id="31024">Sélectionner</string>
+  <string id="31025">Explorateur</string>
+
+  <string id="31027">Retour</string>
+
+  <string id="31029">Curseur</string>
+  <string id="31030">Symboles</string>
+  <string id="31031">Shift</string>
+  <string id="31032">Caps</string>
+  <string id="31033">Espace</string>
+  <string id="31034">Effacer</string>
+  <string id="31035">Valider</string>
+  <string id="31036">Xbox Arcade</string>
+  <string id="31037">Applications</string>
+
+  <string id="31040">Bandes Annonces</string>
+  <string id="31041">Musique - Fichiers</string>
+  <string id="31042">Musique - Bibliothèque</string>
+  <string id="31043">Musique - Playlist</string>
+
+  <string id="31045">Liste de lecture</string>
+  <string id="31046">Vidéo - Fichiers</string>
+  <string id="31047">Vidéo - Bibliothèque</string>
+  <string id="31048">Communauté</string>
+  <string id="31049">XBMC Live</string>
+  <string id="31050">Favoris</string>
+  <string id="31051">XBMC Live Place</string>
+  <string id="31052">Paramètres Media</string>
+  <string id="31053">Paramètres Système</string>
+  <string id="31054">Gestionnaire Profils</string>
+  <string id="31055">Paramètres Personnels</string>
+  <string id="31056">Sélectionner une musique</string>
+  <string id="31057">Ouvrir/Fermer le tiroir DVD</string>
+  <string id="31058">Ouvrir le tiroir DVD</string>
+  <string id="31059">Fermer le tiroir DVD</string>
+  <string id="31060">Lecture...</string>
+  <string id="31061">Modifier le thème</string>
+  <string id="31062">Modifier le fond d'écran</string>
+
+  <string id="31064">Définir des fonds d'écran séparés</string>
+  <string id="31065">Retirer tout les fonds d'écran</string>
+  <string id="31066">Pas d'animations arrière plan</string>
+
+  <string id="31069">Onglet Guide</string>
+
+  <string id="31072">Réinitialiser les paramètres</string>
+  <string id="31073">Options avancées</string>
+  <string id="31074">Options</string>
+  <string id="31075">Désactiver vignettes liste</string>
+  <string id="31076">Désactiver vignettes musique</string>
+  <string id="31077">Utiliser le volume faible</string>
+
+  <string id="31080">Modifier votre GamerCard</string>
+  <string id="31081">Configuration</string>
+  <string id="31082">GamerCard Xbox.com</string>
+  <string id="31083">Choisir un pseudo</string>
+  <string id="31084">Choisir une image</string>
+  <string id="31085">Choisir un score</string>
+  <string id="31086">Choisir une zone</string>
+
+  <string id="31088">Effacer la personalisation</string>
+  <string id="31089">Ajouter à la Playlist</string>
+  <string id="31090">Vidéo - Playlist</string>
+  <string id="31091">Retirer de la Playlist</string>
+  <string id="31092">Mettre en surbrillance</string>
+  <string id="31093">Xlink Kai: Evolution VII</string>
+  <string id="31094">Connectez-vous à d'autres consoles à travers le monde et jouez gratuitement en ligne.</string>
+  <string id="31095">XBMC Live Place</string>
+  <string id="31096">Télécharger des Thèmes depuis le site XBMC Black Market, Regarder des vidéos sur internet et mettre à jour  XBMC.</string>
+
+  <string id="31099">Scripts XBMC installés</string>
+
+  <string id="31101">Thèmes Black Market</string>
+
+  <string id="31104">Explorer, Copier, Effacer, Déplacer les fichiers de votre disque dur Xbox</string>
+  <string id="31105">Affichez 4 jours de prévisions Météo, pour 3 différentes villes dans le monde</string>
+  <string id="31106">Personnalisez votre Gamercard ou connectez-vous à votre profil Xbox.com.</string>
+  <string id="31107">Jouez aux jeux stockés sur votre disque dur Xbox.</string>
+  <string id="31108">Découvrez et profitez d'un ensemble de jeux simples et amusants.</string>
+  <string id="31109">Accédez aux programmes installés sur votre disque dur ou sur DVD.</string>
+  <string id="31110">Organisez vos sauvegardes, copiez, effacez ou téléchargez des nouvelles sauvegardes depuis internet.</string>
+
+  <string id="31112">Ecoutez de la musique depuis de votre PC, CD, DVD ou disque dur Xbox.</string>
+  <string id="31113">Affichez des images ou diaporamas depuis votre PC, CD, DVD ou disque dur Xbox.</string>
+  <string id="31114">Regardez des Vidéos stockées sur votre PC, CD, DVD ou disque dur Xbox.</string>
+  <string id="31115">Visionnez les bande-annonces du site apple.com via le script Apple Movie Trailers</string>
+  <string id="31116">Maintenance du système, comprenant:[CR][CR]* Organisation disque Xbox[CR]* Gestion de Sauvegardes</string>
+  <string id="31117">Editez les paramètres de votre affichage, comprenant:[CR][CR]* Calibration de la GUI[CR]* Sélection de Skin[CR]* Ecran de veille[CR]* Date &amp; Heure</string>
+  <string id="31118">Editez les paramètres de vos Media:[CR][CR]* Vidéos[CR]* Musiques[CR]* Images[CR]* Programmes</string>
+  <string id="31119">Editez la configuration de votre système, comprenant:[CR][CR]* Système général[CR]* Météo[CR]* Configuration réseau</string>
+  <string id="31120">Organisez les Profils utilisateur:[CR][CR]* Création de Profils[CR]* Suppression de Profils[CR]* Changer les paramètres utilisateur.</string>
+  <string id="31121">Affiche les options d'extinction, comprenant:[CR][CR]* Eteindre la Xbox[CR]* Redémarrer XBMC[CR]* Redémarrer la Xbox[CR]* Sortir sur Dashboard</string>
+  <string id="31122">Configurer les paramètres Vidéo, comprenant:[CR][CR]* Calibration de l'écran[CR]* Filtres Vidéo[CR]* Traitement de tâches[CR]* Vus Fichiers</string>
+  <string id="31123">Configurer les paramètres Audio, comprenant:[CR][CR]* Visualisations[CR]* Playlists[CR]* Enregistrement CD[CR]* Karaoke</string>
+  <string id="31124">Modifier les paramètres Images, comprenant:[CR][CR]* Diaporamas[CR]* Vignettes</string>
+  <string id="31125">Paramètrez vos Programmes et configurez Xlink Kai, comprenant:[CR][CR]* Vu Icone[CR]*utilisation des .xbe[CR]* Détails sur le login Kai</string>
+  <string id="31126">Configurez le réseau et les partages, comprenant:[CR][CR]* Passerelle &amp; DNS[CR]* Partage de fichiers Samba[CR]* Auto Détection XBMC[CR]* FTP &amp; Serveur Web</string>
+  <string id="31127">Configuration de l'affichage Météo:[CR][CR]* 3 Villes[CR]* Vitesse du vent[CR]* Températures</string>
+  <string id="31128">Paramètres système avancés, comprenant:[CR][CR]* Extinction auto[CR]* Exécution automatique[CR]* Vitesse ventilateur[CR]* Led centrale[CR]* LCD</string>
+  <string id="31129">Vérifier les infos système, comprenant:[CR][CR]* Stockage[CR]* Matèriel[CR]* Réseau</string>
+  <string id="31130">Voir les crédits de XBMC et du Skin.</string>
+  <string id="31131">Voir les crédits de MC360 et de l'équipe Blackbolt.</string>
+  <string id="31132">Insérer un jeu, DVD, VCD, CD Audio,CD MP3 ou Photo CD.</string>
+  <string id="31133">Lire: $INFO[System.DVDLabel]</string>
+  <string id="31134">Ouvrir l'onglet Guide, pour accéder à vos favoris et vos paramètres personels.</string>
+  <string id="31135">Eteindre</string>
+  <string id="31136">Redémarrer la Xbox</string>
+  <string id="31137">Appuyez sur A pour éteindre votre console Xbox</string>
+  <string id="31138">Effectuer un redémarrage de votre console Xbox, les media en cours de lecture seront stoppés.</string>
+  <string id="31139">Redémarrer XBMC, cela stoppera tout les media en cours de lecture.</string>
+  <string id="31140">Charger le Dashboard préalablement sélectionné dans l'onglet paramètres.</string>
+  <string id="31141">Déconnectez-vous de votre profil et retournez sur l'écran de connexion.</string>
+  <string id="31142">Activer ou désactiver le mode securité pour chaque section de XBMC.</string>
+
+  <string id="31159">Désactiver les flux RSS</string>
+  <string id="31160">Désactiver descriptions texte</string>
+  <string id="31161">Désactiver le bouton Guide</string>
+  <string id="31162">Désactiver l'effet de flou</string>
+
+  <string id="31164">Pas de vidéo arrière plan</string>
+  <string id="31165">Crédits MC360</string>
+  <string id="31166">MétéoCard</string>
+  <string id="31167">InfoCard</string>
+  <string id="31168">GamerCard</string>
+  <string id="31169">Sélectionnez vos types de Cards</string>
+  <string id="31170">Heure sur l'onglet d'accueil</string>
+  <string id="31171">Sélectionnez un pack fond d'écran</string>
+
+  <string id="31173">Utiliser Card Lecture en cours</string>
+  <string id="31174">Pas de visus arrière plan</string>
+  <string id="31175">Utiliser la GamerCard Argent</string>
+  <string id="31176">Dernier utilisateur connecté</string>
+  <string id="31177">Appuyez sur A pour lire le disque.</string>
+  <string id="31178">Synopsis:</string>
+  <string id="31179">Casting:</string>
+  <string id="31180">Visualisation plein écran</string>
+  <string id="31181">Vidéo plein écran</string>
+  <string id="31182">Pause</string>
+  <string id="31183">Lire</string>
+  <string id="31184">Piste précédente</string>
+  <string id="31185">Piste suivante</string>
+  <string id="31186">Paramètres Vidéo</string>
+  <string id="31187">Paramètres Audio</string>
+  <string id="31188">Playlist</string>
+  <string id="31189">Signets</string>
+  <string id="31190">Menu DVD</string>
+  <string id="31191">Conditions actuelles:</string>
+  <string id="31192">Température</string>
+
+  <string id="31195">Mettre à jour XBMC</string>
+
+  <string id="31197">Vidéos en ligne</string>
+
+  <string id="31199">Mettre à jour MC360</string>
+  <string id="31200">Vérification mise à jour auto</string>
+  <string id="31201">Mise à jour GamerCard auto</string>
+  <string id="31202">Mettre à jour la GamerCard</string>
+  <string id="31203">Pas de label vignettes large</string>
+  <string id="31204">Ceci va réinitialiser vos paramètres GamerCard, toutes les options du Guide ainsi que les fonds personnalisés, êtes-vous sur de vouloir continuer ?[CR][CR][CR]</string>
+  <string id="31205">Options des Scripts</string>
+  <string id="31206">AMT sur l'onglet Media</string>
+  <string id="31207">AccuWeather dans Météo</string>
+  <string id="31208">Radar</string>
+  <string id="31209">ATTENTION !! Ces extensions ou scripts tiers ne sont pas inclus dans mc360. [CR][CR]Vous devez les installer par vous même dans leurs dossiers respectif afin de les utiliser.</string>
+  <string id="31210">Paroles de chansons</string>
+  <string id="31211">XBMC Lyrics dans l'OSD</string>
+</strings>

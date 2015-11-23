@@ -1,0 +1,360 @@
+<window id="1113">
+	<defaultcontrol>9000</defaultcontrol>
+	<allowoverlay>no</allowoverlay>
+	<controls>
+		<!-- Setup Background and Window Transition -->
+		<include>LiveBackGroundWhitewash</include>
+		<!-- Start Normal Window Controls -->
+		<control type="group">
+			<animation effect="fade" delay="100" time="250">WindowOpen</animation>
+			<animation effect="fade" time="100">WindowClose</animation>
+			<control type="label" id="1">
+				<description>XBMC Live Place label</description>
+				<posx>102</posx>
+				<posy>42</posy>
+				<align>left</align>
+				<label>31051</label>
+				<textcolor>TextcolorWhite</textcolor>
+				<shadowcolor>shadow-black</shadowcolor>
+				<font>font18</font>
+			</control>
+			<control type="image">
+				<description>Big Advert Window</description>
+				<posx>385</posx>
+				<posy>180</posy>
+				<width>290</width>
+				<height>280</height>
+				<texture border="15">XBMCLivePlace\xbmc_live_eX_ad001.png</texture>
+			</control>
+			<control type="image">
+				<description>XBMC Live Place Logo</description>
+				<posx>385</posx>
+				<posy>90</posy>
+				<width>290</width>
+				<height>85</height>
+				<texture>XBMCLivePlace\xbmc_live_place_logo.png</texture>
+				<visible>-</visible>
+			</control>
+			<control type="group" id="9000">
+				<posy>-7</posy>
+				<control type="image">
+					<description>Market Place Button 1 Hightlight Image</description>
+					<posx>90</posx>
+					<posy>95</posy>
+					<width>290</width>
+					<height>70</height>
+					<texture>button-liveplace-big-focus.png</texture>
+					<visible>Control.HasFocus(1)</visible>
+				</control>
+				<control type="image">
+					<description>Market Place Button 1 Image Icon</description>
+					<posx>95</posx>
+					<posy>97</posy>
+					<width>280</width>
+					<height>64</height>
+					<texture>XBMCLivePlace\icon-YouTube.png</texture>
+				</control>
+				<control type="button" id="1">
+					<description>Market Place Button 1 push button</description>
+					<posx>90</posx>
+					<posy>95</posy>
+					<width>290</width>
+					<height>70</height>
+					<aligny>-</aligny>
+					<textoffsetx>10</textoffsetx>
+					<textoffsety>40</textoffsety>
+					<label>31197</label>
+					<shadowcolor>shadow-grey</shadowcolor>
+					<texturefocus>button-liveplace-big-nofocus.png</texturefocus>
+					<texturenofocus>button-liveplace-big-nofocus.png</texturenofocus>
+					<onclick>XBMC.RunScript(Q:\skin\MC360\extras\Youtube\default.py)</onclick>
+					<visible>yes</visible>
+					<onleft>1</onleft>
+					<onright>1</onright>
+					<onup>7</onup>
+					<ondown>2</ondown>
+				</control>
+				<control type="image">
+					<description>Market Place Button 2 Hightlight Image</description>
+					<posx>90</posx>
+					<posy>165</posy>
+					<width>290</width>
+					<height>70</height>
+					<texture>button-liveplace-big-focus.png</texture>
+					<visible>Control.HasFocus(2)</visible>
+				</control>
+				<control type="image">
+					<description>Market Place Button 2 Image Icon</description>
+					<posx>95</posx>
+					<posy>167</posy>
+					<width>280</width>
+					<height>64</height>
+					<texture>XBMCLivePlace\icon-amt.png</texture>
+				</control>
+				<control type="button" id="2">
+					<description>Market Place Button 2 push button</description>
+					<posx>90</posx>
+					<posy>165</posy>
+					<width>290</width>
+					<height>70</height>
+					<aligny>-</aligny>
+					<textoffsetx>10</textoffsetx>
+					<textoffsety>40</textoffsety>
+					<label>31040</label>
+					<shadowcolor>shadow-grey</shadowcolor>
+					<texturefocus>button-liveplace-big-nofocus.png</texturefocus>
+					<texturenofocus>button-liveplace-big-nofocus.png</texturenofocus>
+					<onclick>XBMC.RunScript(Q:\scripts\Apple Movie Trailers\default.py)</onclick>
+					<visible>yes</visible>
+					<onleft>2</onleft>
+					<onright>2</onright>
+					<onup>1</onup>
+					<ondown>3</ondown>
+				</control>
+				<control type="image">
+					<description>Market Place Button 3 Hightlight Image</description>
+					<posx>90</posx>
+					<posy>235</posy>
+					<width>290</width>
+					<height>70</height>
+					<texture>button-liveplace-big-focus.png</texture>
+					<visible>Control.HasFocus(3)</visible>
+				</control>
+				<control type="image">
+					<description>Market Place Button 3 Image Icon</description>
+					<posx>95</posx>
+					<posy>237</posy>
+					<width>280</width>
+					<height>64</height>
+					<texture>XBMCLivePlace\icon-blackmarket.png</texture>
+				</control>
+				<control type="button" id="3">
+					<description>Market Place Button 3 push button</description>
+					<posx>90</posx>
+					<posy>235</posy>
+					<width>290</width>
+					<height>70</height>
+					<aligny>-</aligny>
+					<textoffsetx>10</textoffsetx>
+					<textoffsety>40</textoffsety>
+					<label>31101</label>
+					<shadowcolor>shadow-grey</shadowcolor>
+					<texturefocus>button-liveplace-big-nofocus.png</texturefocus>
+					<texturenofocus>button-liveplace-big-nofocus.png</texturenofocus>
+					<onclick>XBMC.RunScript(Q:\skin\MC360\extras\XBMCBlackMarket\default.py)</onclick>
+					<visible>yes</visible>
+					<onleft>3</onleft>
+					<onright>3</onright>
+					<onup>2</onup>
+					<ondown>4</ondown>
+				</control>
+				<control type="image">
+					<description>Market Place Button 4 Hightlight Image</description>
+					<posx>90</posx>
+					<posy>305</posy>
+					<width>290</width>
+					<height>70</height>
+					<texture>button-liveplace-big-focus.png</texture>
+					<visible>Control.HasFocus(4)</visible>
+				</control>
+				<control type="image">
+					<description>Market Place Button 4 Image Icon</description>
+					<posx>95</posx>
+					<posy>307</posy>
+					<width>280</width>
+					<height>64</height>
+					<texture>XBMCLivePlace\icon-softwareupdate.png</texture>
+				</control>
+				<control type="button" id="4">
+					<description>Market Place Button 4 push button</description>
+					<posx>90</posx>
+					<posy>305</posy>
+					<width>290</width>
+					<height>70</height>
+					<aligny>-</aligny>
+					<textoffsetx>10</textoffsetx>
+					<textoffsety>40</textoffsety>
+					<label>31195</label>
+					<shadowcolor>shadow-grey</shadowcolor>
+					<texturefocus>button-liveplace-big-nofocus.png</texturefocus>
+					<texturenofocus>button-liveplace-big-nofocus.png</texturenofocus>
+					<onclick>XBMC.RunScript(Q:\scripts\T3CH Downloader\default.py)</onclick>
+					<visible>yes</visible>
+					<onleft>4</onleft>
+					<onright>4</onright>
+					<onup>3</onup>
+					<ondown>5</ondown>
+				</control>
+				<control type="image">
+					<description>Button Seperator</description>
+					<posx>95</posx>
+					<posy>376</posy>
+					<width>280</width>
+					<height>1</height>
+					<texture>divider.png</texture>
+					<visible>-</visible>
+				</control>
+				<control type="image">
+					<description>Market Place Button 5 Highlight Image Shadow</description>
+					<posx>90</posx>
+					<posy>415</posy>
+					<width>290</width>
+					<height>16</height>
+					<texture>button-shadow.png</texture>
+					<visible>Control.HasFocus(5)</visible>
+					<animation effect="fade" time="250">Visible</animation>
+				</control>
+				<control type="image">
+					<description>Market Place Button 5 Highlight Image</description>
+					<posx>90</posx>
+					<posy>375</posy>
+					<width>290</width>
+					<height>44</height>
+					<texture>button-focus.png</texture>
+					<visible>Control.HasFocus(5)</visible>
+				</control>
+				<control type="button" id="5">
+					<description>Market Place Button 5 Push Button</description>
+					<include>Home-Button-Commons</include>
+					<posx>110</posx>
+					<posy>380</posy>
+					<label>8</label>
+					<onclick>ActivateWindow(Weather)</onclick>
+					<texturefocus>icon-weather.png</texturefocus>
+					<texturenofocus>icon-weather.png</texturenofocus>
+					<onleft>5</onleft>
+					<onright>5</onright>
+					<onup>4</onup>
+					<ondown>6</ondown>
+				</control>
+				<control type="multiimage">
+					<description>Market Place Button 5 Button Shine</description>
+					<posx>83</posx>
+					<posy>378</posy>
+					<width>280</width>
+					<height>34</height>
+					<include>Shine</include>
+					<visible>Control.HasFocus(5)</visible>
+					<animation effect="fade" delay="275">Visible</animation>
+				</control>
+				<control type="image">
+					<description>Button Seperator</description>
+					<posx>95</posx>
+					<posy>413</posy>
+					<width>280</width>
+					<height>1</height>
+					<texture>divider.png</texture>
+					<visible>-</visible>
+				</control>
+				<control type="image">
+					<description>Market Place Button 6 Highlight Image Shadow</description>
+					<posx>90</posx>
+					<posy>452</posy>
+					<width>290</width>
+					<height>16</height>
+					<texture>button-shadow.png</texture>
+					<visible>Control.HasFocus(6)</visible>
+					<animation effect="fade" time="250">Visible</animation>
+				</control>
+				<control type="image">
+					<description>Market Place Button 6 Highlight Image</description>
+					<posx>90</posx>
+					<posy>412</posy>
+					<width>290</width>
+					<height>44</height>
+					<texture>button-focus.png</texture>
+					<visible>Control.HasFocus(6)</visible>
+				</control>
+				<control type="button" id="6">
+					<description>Market Place Button 6 Push Button</description>
+					<include>Home-Button-Commons</include>
+					<posx>110</posx>
+					<posy>417</posy>
+					<label>31099</label>
+					<onclick>XBMC.ActivateWindow(20)</onclick>
+					<texturefocus>icon-scripts.png</texturefocus>
+					<texturenofocus>icon-scripts.png</texturenofocus>
+					<onleft>6</onleft>
+					<onright>6</onright>
+					<onup>5</onup>
+					<ondown>7</ondown>
+				</control>
+				<control type="multiimage">
+					<description>Market Place Button 6 Button Shine</description>
+					<posx>83</posx>
+					<posy>415</posy>
+					<width>280</width>
+					<height>34</height>
+					<include>Shine</include>
+					<visible>Control.HasFocus(6)</visible>
+					<animation effect="fade" delay="275">Visible</animation>
+				</control>
+				<control type="image">
+					<description>Button Seperator</description>
+					<posx>95</posx>
+					<posy>450</posy>
+					<width>280</width>
+					<height>1</height>
+					<texture>divider.png</texture>
+					<visible>-</visible>
+				</control>
+				<control type="image">
+					<description>Market Place Button 7 Highlight Image Shadow</description>
+					<posx>90</posx>
+					<posy>489</posy>
+					<width>290</width>
+					<height>16</height>
+					<texture>button-shadow.png</texture>
+					<visible>Control.HasFocus(7)</visible>
+					<animation effect="fade" time="250">Visible</animation>
+				</control>
+				<control type="image">
+					<description>Market Place Button 7 Highlight Image</description>
+					<posx>90</posx>
+					<posy>449</posy>
+					<width>290</width>
+					<height>44</height>
+					<texture>button-focus.png</texture>
+					<visible>Control.HasFocus(7)</visible>
+				</control>
+				<control type="button" id="7">
+					<description>Market Place Button 7 Push Button</description>
+					<include>Home-Button-Commons</include>
+					<posx>110</posx>
+					<posy>454</posy>
+					<label>31199</label>
+					<onclick>RunScript(Q:\skin\MC360\extras\manupdatecheck.py)</onclick>
+					<texturefocus>icon-update.png</texturefocus>
+					<texturenofocus>icon-update.png</texturenofocus>
+					<onleft>7</onleft>
+					<onright>7</onright>
+					<onup>6</onup>
+					<ondown>1</ondown>
+				</control>
+				<control type="multiimage">
+					<description>Market Place Button 7 Button Shine</description>
+					<posx>83</posx>
+					<posy>452</posy>
+					<width>280</width>
+					<height>34</height>
+					<include>Shine</include>
+					<visible>Control.HasFocus(7)</visible>
+					<animation effect="fade" delay="275">Visible</animation>
+				</control>
+				<control type="image">
+					<description>Button Seperator</description>
+					<posx>95</posx>
+					<posy>487</posy>
+					<width>280</width>
+					<height>1</height>
+					<texture>divider.png</texture>
+					<visible>-</visible>
+				</control>
+			</control>
+			<!--- Insert New stuff here -->
+			<include>SystemCustomKeymaps</include>
+		</control>
+		<!-- Start Screen Close Animation -->
+		<include>LiveCommonsBlades</include>
+	</controls>
+</window>     

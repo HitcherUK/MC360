@@ -1,0 +1,126 @@
+<window id="125">
+	<defaultcontrol>2</defaultcontrol>
+	<controls>
+		<include>OSDDialogs</include>
+		<control type="label" id="4">
+			<description>Main Title</description>
+			<posx>305</posx>
+			<posy>40</posy>
+			<width>390</width>
+			<include>DialogTitle</include>
+			<label>13398</label>
+			<animation effect="fade" delay="450" time="200">WindowOpen</animation>
+			<animation effect="fade" time="150">WindowClose</animation>
+		</control>
+		<control type="button" id="2">
+			<description>Create Bookmark button</description>
+			<posx>302</posx>
+			<posy>410</posy>
+			<width>148</width>
+			<height>59</height>
+			<textoffsetx>12</textoffsetx>
+			<aligny>center</aligny>
+			<align>center</align>
+			<label>294</label>
+			<onleft>3</onleft>
+			<onright>3</onright>
+			<ondown>11</ondown>
+			<onup>11</onup>
+			<texturefocus>guide-button-focus.png</texturefocus>
+			<texturenofocus>-</texturenofocus>
+			<animation effect="fade" delay="450" time="200">WindowOpen</animation>
+			<animation effect="fade" time="200">WindowClose</animation>
+			<animation effect="zoom" start="95" end="100" center="376,440" time="300" reversible="false">focus</animation>
+		</control>
+		<control type="button" id="3">
+			<description>Clear Bookmarks button</description>
+			<posx>460</posx>
+			<posy>410</posy>
+			<width>148</width>
+			<height>59</height>
+			<aligny>center</aligny>
+			<align>center</align>
+			<label>296</label>
+			<onleft>2</onleft>
+			<onright>2</onright>
+			<ondown>11</ondown>
+			<onup>11</onup>
+			<texturefocus>guide-button-focus.png</texturefocus>
+			<texturenofocus>-</texturenofocus>
+			<animation effect="fade" delay="450" time="200">WindowOpen</animation>
+			<animation effect="fade" time="200">WindowClose</animation>
+			<animation effect="zoom" start="95" end="100" center="534,440" time="300" reversible="false">focus</animation>
+		</control>
+		<control type="panel" id="11">
+			<posx>300</posx>
+			<posy>110</posy>
+			<width>384</width>
+			<height>266</height>
+			<onleft>2</onleft>
+			<onright>3</onright>
+			<ondown>2</ondown>
+			<onup>2</onup>
+			<viewtype label="536">icon</viewtype>
+			<pagecontrol>60</pagecontrol>
+			<scrolltime>1</scrolltime>
+			<animation effect="fade" delay="450" time="200">WindowOpen</animation>
+			<animation effect="fade" time="150">WindowClose</animation>
+			<itemlayout height="133" width="128">
+				<control type="image">
+					<width>112</width>
+					<height>116</height>
+					<posx>8</posx>
+					<posy>7</posy>
+					<texture border="10">thumb-nofocus.png</texture>
+				</control>
+				<control type="image">
+					<posx>21</posx>
+					<posy>10</posy>
+					<width>86</width>
+					<height>86</height>
+					<info>ListItem.Icon</info>
+				</control>
+				<control type="label">
+					<posx>65</posx>
+					<posy>97</posy>
+					<width>106</width>
+					<height>22</height>
+					<font>font12</font>
+					<textcolor>TextcolorBlack</textcolor>
+					<selectedcolor>listselectedcolor</selectedcolor>
+					<align>center</align>
+					<info>ListItem.Label</info>
+				</control>
+			</itemlayout>
+			<focusedlayout height="133" width="128">
+				<control type="image">
+					<width>120</width>
+					<height>124</height>
+					<posx>4</posx>
+					<posy>3</posy>
+					<texture border="10">thumb-focus.png</texture>
+					<animation effect="zoom" start="6,5,116,120" end="4,3,120,124" time="100">focus</animation>
+				</control>
+				<control type="image">
+					<posx>21</posx>
+					<posy>10</posy>
+					<width>86</width>
+					<height>86</height>
+					<info>ListItem.Icon</info>
+					<animation effect="zoom" start="21,10,86,86" end="19,8,90,90" time="100">focus</animation>
+				</control>
+				<control type="label">
+					<posx>65</posx>
+					<posy>97</posy>
+					<width>110</width>
+					<height>22</height>
+					<font>font12</font>
+					<textcolor>TextcolorBlack</textcolor>
+					<selectedcolor>listselectedcolor</selectedcolor>
+					<align>center</align>
+					<info>ListItem.Label</info>
+				</control>
+			</focusedlayout>
+		</control>
+	</controls>
+</window>

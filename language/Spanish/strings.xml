@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!--Traducción realizada por: David González-->
+<!--Fecha de la traducción: 11/29/2007-->
+<!--$Revision$-->
+<strings>
+  <string id="31002">Juegos</string>
+  <string id="31003">Media</string>
+
+  <string id="31005">Sistema</string>
+
+  <string id="31008">Videos</string>
+  <string id="31009">MC360 Guide</string>
+  <string id="31010">Memoria</string>
+  <!-- These Blade Headers should be in LOWER CASE, no capitol first letters -->
+  <string id="31011">Juegos</string>
+  <string id="31012">Media</string>
+
+  <string id="31014">Sistema</string>
+
+  <string id="31018">XBMC Live</string>
+  <!-- End of LOWER CASE headers -->
+  <string id="31019">Login</string>
+  <string id="31020">Mensajes</string>
+  <string id="31021">Amigos</string>
+  <string id="31022">Conectarse a Xlink Kai</string>
+  <string id="31023">Xlink Kai No Conectado</string>
+  <string id="31024">Seleccionar</string>
+  <string id="31025">Explorador de archivos</string>
+
+  <string id="31027">Volver</string>
+
+  <string id="31029">Cursor</string>
+  <string id="31030">Símbolos</string>
+  <string id="31031">Cambio</string>
+  <string id="31032">Mayus.</string>
+  <string id="31033">Espacio</string>
+  <string id="31034">Retroceso</string>
+  <string id="31035">Hecho</string>
+  <string id="31036">Xbox Arcade</string>
+  <string id="31037">Aplicaciones</string>
+
+  <string id="31040">Cortos de Peliculas</string>
+  <string id="31041">Música - Archivo</string>
+  <string id="31042">Música - Biblioteca</string>
+  <string id="31043">Música - Lista. Repro</string>
+
+  <string id="31045">Nueva Lista. Repro</string>
+  <string id="31046">Video - Archivo</string>
+  <string id="31047">Video - Biblioteca</string>
+  <string id="31048">Comunidad</string>
+  <string id="31049">XBMC Live</string>
+  <string id="31050">Favoritos</string>
+  <string id="31051">XBMC Live Place</string>
+  <string id="31052">Configuración Media</string>
+  <string id="31053">Configuración Sistema</string>
+  <string id="31054">Perfil Manager</string>
+  <string id="31055">Configuración Personal</string>
+  <string id="31056">Seleccionar Música</string>
+  <string id="31057">Abrir/Cerrar Bandeja</string>
+  <string id="31058">Abrir Bandeja</string>
+  <string id="31059">Cerrar Bandeja</string>
+  <string id="31060">Leyendo...</string>
+  <string id="31061">Personalizar Tema</string>
+  <string id="31062">Personalizar Fondos</string>
+
+  <string id="31064">Poner fondos separados</string>
+  <string id="31065">Remover todo los fondos</string>
+  <string id="31066">Desactivar Animación BG</string>
+
+  <string id="31069">Guía de paginas</string>
+
+  <string id="31071">Reiniciar Configuración MC360</string>
+  <string id="31072">Limpiar toda Configuración</string>
+  <string id="31073">Opciones Avanzadas</string>
+  <string id="31074">Opciones</string>
+  <string id="31075">Desactivar Lista miniatura</string>
+  <string id="31076">Desactivar Música miniatura</string>
+  <string id="31077">Usar encendido de Volumen</string>
+
+  <string id="31080">Disposición GamerCard</string>
+  <string id="31081">GamerCard Disposición</string>
+  <string id="31082">Obtener de Xbox.com GamerCard</string>
+  <string id="31083">Poner Gamer Tag</string>
+  <string id="31084">Poner Gamer Foto</string>
+  <string id="31085">Poner Gamer Cuenta</string>
+  <string id="31086">Poner Gamer Zona</string>
+
+  <string id="31088">Quitar personalización</string>
+  <string id="31089">Agregar a Lista. Repro</string>
+  <string id="31090">Video - Lista. Repro</string>
+  <string id="31091">Remover de Lista. Repro</string>
+  <string id="31092">Seleccionar Archivo</string>
+  <string id="31093">Xlink Kai: Evolution VII</string>
+  <string id="31094">Conectate con otras consolas alrededor del mundo y juega online ¡GRATIS!.</string>
+  <string id="31095">XBMC Live Place</string>
+  <string id="31096">Descargue los temas del sitio de Black Market de XBMC, Observe videos por Internet y obtenga las últimas actualizaciones de XBMC.</string>
+
+  <string id="31099">Ver Scripts XBMC instalados</string>
+
+  <string id="31101">Temas de Black Market</string>
+
+  <string id="31104">Explora, copia, borra o mueve archivos en el disco duro, DVD o Red de tu XBOX.</string>
+  <string id="31105">Checa el pronostico del tiempo de 4 días para 3 localidades.</string>
+  <string id="31106">Personaliza tu tipo de GamerCard o vincula tu perfil de Xbox.com.</string>
+  <string id="31107">Ejecuta juegos almacenados en tu disco duro.</string>
+  <string id="31108">Disfruta de juegos emulados de viejas consolas.</string>
+  <string id="31109">Ejecuta aplicaciones almacenadas en tu disco duro o DVD.</string>
+  <string id="31110">Administra los juegos salvados, copiarlos o eliminarlos.</string>
+
+  <string id="31112">Escucha música almacenada en tu PC, CD, DVD o Disco Duro.</string>
+  <string id="31113">Ver imagenes almacenadas en tu PC, CD, DVD o Disco Duro.</string>
+  <string id="31114">Ver vídeos almacenados en tu PC, CD, DVD o Disco Duro.</string>
+  <string id="31115">Ver trailers de peliculas de Quicktime desde apple.com.</string>
+  <string id="31116">Efectúa mantenimiento de memoria, incluyendo:[CR]* Administrar Disco Duro[CR]* Administra partidas Guardadas</string>
+  <string id="31117">Edita tu configuración de pantalla, incluyendo:[CR]* Calibración de interfaz[CR]* Selección de Skin[CR]* Protector de pantalla[CR]* Fecha &amp; Hora</string>
+  <string id="31118">Edita tu configuración de medios, incluyendo:[CR]* Vídeo[CR]* Música[CR]* Fotos[CR]* Programas</string>
+  <string id="31119">Edita tu configuración de sistema, incluyendo:[CR]* Sistema general[CR]* Clima[CR]* Configuración de red</string>
+  <string id="31120">Administra perfiles de usuario, incluyendo:[CR]* Creación de perfiles[CR]* Borrado de perfiles[CR]* Cambiar configuración de usuario</string>
+  <string id="31121">Despliegue de opciones de apagado, incluyendo:[CR]* Apagar Xbox[CR]* Reiniciar XBMC[CR]* Resetear Xbox[CR]* Dashboard</string>
+  <string id="31122">Configurar opciones de vídeo, incluyendo:[CR]* Calibración de pantalla[CR]* Filtros de vídeo[CR]* Post procesamiento[CR]* Vistas de archivos</string>
+  <string id="31123">Configurar opciones de vídeo audio, incluyendo:[CR]* Visualizaciones[CR]* Lista de Reproducción[CR]* Ripeado de CD[CR]* Karaoke</string>
+  <string id="31124">Arreglar configuración de fotos, incluyendo:[CR]* Diapositivas[CR]* Miniaturas</string>
+  <string id="31125">Configura tus programas y opciones de Xlink Kai, incluyendo:[CR]* Vista de iconos[CR]* Uso de .xbe[CR]* Detalles de conexión a Kai</string>
+  <string id="31126">Configuración de red, incluyendo:[CR]* Puerta de enlace &amp; DNS[CR]* Archivos compartidos de Samba[CR]* Autodetectar XBMC[CR]* FTP &amp; Web Server</string>
+  <string id="31127">Escoger despliegue del tiempo, incluyendo:[CR]* 3 Ciudades[CR]* Velocidad del viento[CR]* Temperatura</string>
+  <string id="31128">Opciones de sistema, incluyendo:[CR]* Autoapagado[CR]* Autoejecución[CR]* Velocidad del ventilador[CR]* LED Frontal[CR]* LCD</string>
+  <string id="31129">Ver información del sistema, incluyendo:[CR]* Almacenamiento[CR]* Hardware[CR]* Red</string>
+  <string id="31130">Ver créditos de Xbox Media Center y su skin.</string>
+  <string id="31131">Ver créditos de MC360 y Team Blackbolt.</string>
+  <string id="31132">Inserta un juego, DVD, VCD, Audio CD, MP3 CD o Foto CD.</string>
+  <string id="31133">Jugar: $INFO[System.DVDLabel]</string>
+  <string id="31134">Abre la guía para acceder a tus favoritos y a tu configuración personal.</string>
+  <string id="31135">Apagado</string>
+  <string id="31136">Reiniciar Xbox</string>
+  <string id="31137">Presione A para apagar la consola Xbox con seguridad</string>
+  <string id="31138">Realiza un reinicio frío, cualquier medio en reproducción será suspendido.</string>
+  <string id="31139">Reinicia Xbox Media Center, cualquier medio en reproducción será suspendido.</string>
+  <string id="31140">Carga el dashboard que seleccionaste en la pagina de configuración del sistema.</string>
+  <string id="31141">Deshabilita tu perfil y regresa a la pantalla de conexión.</string>
+  <string id="31142">Habilitar o Deshabilitar el bloqueo maestro de cada sección de Xbox Media Center.</string>
+
+  <string id="31159">Desactivar RSS Feeds</string>
+  <string id="31160">Desactivar descripción de texto</string>
+  <string id="31161">Desactivar el botón de Guía</string>
+  <string id="31162">Desactivar niebla de las paginas</string>
+
+  <string id="31164">Desactivar Vídeo BG</string>
+  <string id="31165">Créditos MC360</string>
+  <string id="31166">Tarjeta Clima</string>
+  <string id="31167">Info. Tarjeta</string>
+  <string id="31168">GamerCard</string>
+  <string id="31169">Escoge tipo de tarjeta</string>
+  <string id="31170">Activar tiempo en secciones</string>
+  <string id="31171">Escoger Paquete de fondos</string>
+
+  <string id="31173">Usar tarjeta de Jugando</string>
+  <string id="31174">Desactivar Visualización BG</string>
+  <string id="31175">Usar Silver GamerCard</string>
+  <string id="31176">Usar ultima combinación de conexión</string>
+  <string id="31177">Pulsa A para reproducir[CR]un disco.</string>
+  <string id="31178">Plot:</string>
+  <string id="31179">Cast:</string>
+  <string id="31180">Visualización en pantalla completa</string>
+  <string id="31181">Vídeo en pantalla completa</string>
+  <string id="31182">Pausa</string>
+  <string id="31183">Play</string>
+  <string id="31184">Sig. Pista</string>
+  <string id="31185">Pista Anterior</string>
+  <string id="31186">Opciones de Vídeo</string>
+  <string id="31187">Opciones de Audio</string>
+  <string id="31188">Lista de reproducción</string>
+  <string id="31189">Marcadores</string>
+  <string id="31190">Menú DVD</string>
+  <string id="31191">Condiciones actuales:</string>
+  <string id="31192">Temperatura</string>
+
+  <string id="31195">Actualización XBMC</string>
+
+  <string id="31197">Ver vídeos Online</string>
+
+  <string id="31199">Buscar actualización para MC360</string>
+  <string id="31200">Autochequear actualización</string>
+  <string id="31201">Auto Actualización GamerCard</string>
+  <string id="31202">Autoactualizar GamerCard</string>
+  <string id="31203">Desactivar iconos de etiquetas amplias</string>
+  <string id="31204">Esto reseteará tu configuración de GamerTag, opciones de guía y fondos personalizados. ¿Estas seguro de continuar?[CR]</string>
+  <string id="31205">Opciones de Scripts adicionales</string>
+  <string id="31206">AMT en seccion de Media</string>
+  <string id="31207">Exactitud en El Tiempo</string>
+  <string id="31208">Radar</string>
+  <string id="31209">¡OJO! Scripts de terceros no incluidos en MC360. [CR]Usted necesita tenerlos instalado en las rutas adecuadas dentro del dir. de scripts para que los botones funcionen.</string>
+  <string id="31210">Letras de Canciones</string>
+  <string id="31211">XBMC Letras en OSD de Música</string>
+  <!-- set_gamercard -->
+  <string id="31212">GamerCard</string>
+  <string id="31213">Detectado el DNS es mayor de likey</string>
+  <string id="31214">No trabajando correctamente</string>
+  <string id="31215">Porfavor verifique e intentelo de nuevo</string>
+  <string id="31216">Descarga</string>
+  <string id="31217">Desde Xbox.com</string>
+  <string id="31218">Grabar GamerCard</string>
+  <string id="31219">Editar GamerCard</string>
+  <string id="31220">Cancelar</string>
+  <string id="31221">Ingrese Xbox.com GamerTag</string>
+  <string id="31222">Nombre dado en blanco</string>
+  <string id="31223">Los ajustes permanecen inalterados</string>
+  <string id="31224">No se encontro Internet</string>
+  <string id="31225">Mantener información vieja</string>
+  <!-- DialogKaiToast -->
+  <string id="31226">Usuario MC360</string>
+  <string id="31227">Acaba de iniciar sesión</string>
+  <!-- LoginScreen -->
+  <string id="31228">Abriendo sesión</string>
+  <!-- updatecheck -->
+  <string id="31229">No hay Actualización Disponible</string>
+  <string id="31230">Su MC360 es actual. Verifique las [CR]actualizaciones en otro momento.</string>
+  <string id="31231">[CR]Versión Actual: %s[CR]Versión Disponible: %s</string>
+  <string id="31232">Actualización Disponible</string>
+  <string id="31233">Actualización Disponible para su[CR]skin MC360. Porfavor visitar [CR]http://blackbolt.x-scene.com . [CR]Siga las instrucciones de la instalación en[CR]el readme.txt del archivo descargado para[CR]poder instalarlo en el Xbox Media Center.[CR]Versión Actual: %s[CR]Versión Disponoble: %s</string>
+  <!-- setwallpaperpacks -->
+  <string id="31234">directorio del paquete de los fondos</string>
+  <string id="31235">imagen</string>
+  <string id="31236">No %s fondo fue encontrado</string>
+  <string id="31237">Presione OK para Continuar</string>
+  <string id="31238">MC360</string>
+</strings>
+

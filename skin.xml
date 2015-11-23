@@ -1,0 +1,21 @@
+<skin>
+  <defaultresolution>pal</defaultresolution>
+  <defaultresolutionwide>pal16x9</defaultresolutionwide>
+  <defaultthemename>Textures.xpr</defaultthemename>
+  <version>2.1</version>
+  <skinversion>1096</skinversion>
+  <effectslowdown>1</effectslowdown>
+  <credits>
+    <skinname>MC360</skinname>
+    <name>By Team Blackbolt</name>
+    <name>Project Leader &amp; Graphics: Blackbolt</name>
+    <name>Skin Coding: Jezz_X &amp; Donno,</name>
+    <name>Testing: Rocky5 &amp; EqUiNoX</name>
+  </credits>
+  <startupwindows>
+    <window id="1114">Xbmc Live Blade</window>
+    <window id="1112">Games Blade</window>
+    <window id="0">Media Blade</window>
+    <window id="4">System Blade</window>
+  </startupwindows>
+</skin>

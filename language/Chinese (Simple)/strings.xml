@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Simple Chinese Translated by omenpica-->
+<strings>
+  <string id="31002">游戏</string>
+  <string id="31003">媒体</string>
+
+  <string id="31005">系统</string>
+
+  <string id="31008">视频</string>
+  <string id="31009">MC360 导航</string>
+  <string id="31010">文件管理</string>
+  <!-- These Blade Headers should be in LOWER CASE, no capitol first letters -->
+  <string id="31011">游戏</string>
+  <string id="31012">媒体</string>
+
+  <string id="31014">系统</string>
+
+  <string id="31018">xbmc live</string>
+  <!-- End of LOWER CASE headers -->
+  <string id="31019">登陆</string>
+  <string id="31020">消息</string>
+  <string id="31021">好友</string>
+  <string id="31022">连接到 Xlink Kai</string>
+  <string id="31023">Xlink KAI 未连接</string>
+  <string id="31024">选择</string>
+  <string id="31025">文件管理</string>
+
+  <string id="31027">返回</string>
+
+  <string id="31029">光标</string>
+  <string id="31030">符号</string>
+  <string id="31031">切换</string>
+  <string id="31032">大小写</string>
+  <string id="31033">空格</string>
+  <string id="31034">退格</string>
+  <string id="31035">完成</string>
+  <string id="31036">模拟器</string>
+  <string id="31037">应用程序</string>
+
+  <string id="31040">电影预告</string>
+  <string id="31041">音乐 - 文件</string>
+  <string id="31042">音乐 - 资料库</string>
+  <string id="31043">音乐 - 播放列表</string>
+
+  <string id="31045">现正播放</string>
+  <string id="31046">视频 - 文件</string>
+  <string id="31047">视频 - 资料库</string>
+  <string id="31048">社群</string>
+  <string id="31049">XBMC Live</string>
+  <string id="31050">我的最爱</string>
+  <string id="31051">XBMC Live Place</string>
+  <string id="31052">媒体设置</string>
+  <string id="31053">系统设置</string>
+  <string id="31054">预设档管理员</string>
+  <string id="31055">个人化设置</string>
+  <string id="31056">选择音乐</string>
+  <string id="31057">开启/关闭托盘</string>
+  <string id="31058">开启托盘</string>
+  <string id="31059">关闭托盘</string>
+  <string id="31060">读取中…</string>
+  <string id="31061">主题定制</string>
+  <string id="31062">壁纸定制</string>
+
+  <string id="31064">设置各个壁纸</string>
+  <string id="31065">删除所有壁纸设置</string>
+  <string id="31066">关闭背景动画</string>
+
+  <string id="31069">导览页面</string>
+
+  <string id="31071">重设皮肤设置</string>
+  <string id="31072">清除所有设置</string>
+  <string id="31073">进阶选项</string>
+  <string id="31074">进阶选项</string>
+  <string id="31075">关闭列表缩略图</string>
+  <string id="31076">关闭音乐缩略图</string>
+  <string id="31077">使用简化音量滑动杆</string>
+
+  <string id="31080">自订玩家卡图标</string>
+  <string id="31081">玩家卡设置</string>
+  <string id="31082">取得 Xbox.com 玩家卡</string>
+  <string id="31083">设置玩家标签</string>
+  <string id="31084">设置玩家图片</string>
+  <string id="31085">设置玩家分数</string>
+  <string id="31086">设置玩家地区</string>
+
+  <string id="31088">删除自选设置</string>
+  <string id="31089">加入播放列表</string>
+  <string id="31090">视频-播放列表</string>
+  <string id="31091">自播放列表中移除</string>
+  <string id="31092">标记文件</string>
+  <string id="31093">Xlink Kai: Evolution VII</string>
+  <string id="31094">让您连接世界各地的[CR]玩家，免费享受各种[CR]在线游戏</string>
+  <string id="31095">XBMC Live Place</string>
+  <string id="31096">从 XBMC Black Market[CR]网站下载布景主题，[CR]观赏在线视频[CR]和更新 XBMC</string>
+
+  <string id="31099">脚本程序</string>
+
+  <string id="31101">Black Market 布景主题</string>
+
+  <string id="31104">浏览、复制、删除、[CR]移动 Xbox 硬盘中[CR]的文件</string>
+  <string id="31105">查看三个不同城市[CR]四天内的天气预报</string>
+  <string id="31106">输入你的玩家标签[CR]在 XBOX.com[CR]取得玩家卡资讯</string>
+  <string id="31107">玩储存在 Xbox 硬盘里的游戏</string>
+  <string id="31108">浏览并享受一连串[CR]简单有趣的游戏</string>
+  <string id="31109">储存在 Xbox 硬盘或 DVD 光碟里的各种程序</string>
+  <string id="31110">管理储存游戏存档[CR]复制、删除或从网络[CR]取得新存档</string>
+
+  <string id="31112">聆听储存在 PC、CD、DVD 或硬盘中的音乐</string>
+  <string id="31113">观看储存在 PC、CD、DVD 或硬盘中的图片</string>
+  <string id="31114">观赏储存在 PC、CD、DVD 或硬盘中的视频</string>
+  <string id="31115">观赏 Quicktime 格式电影预告片[CR]从 apple.com 使用电影预告脚本</string>
+  <string id="31116">执行系统维护[CR][CR]※包括：[CR][CR]⊙管理 Xbox 硬盘[CR]⊙管理游戏存档</string>
+  <string id="31117">修改显示设置[CR][CR]※包括：[CR] [CR]⊙界面校准[CR]⊙选择皮肤[CR]⊙屏幕保护[CR]⊙日期时间</string>
+  <string id="31118">修改媒体设置[CR][CR]※包括：[CR] [CR]⊙视频[CR]⊙音乐[CR]⊙图片[CR]⊙程序</string>
+  <string id="31119">修改系统设置[CR][CR]※包括：[CR][CR]⊙通用设置[CR]⊙天气[CR]⊙网络设置</string>
+  <string id="31120">用户文件设置[CR][CR]※包括：[CR][CR]⊙创建用户配置[CR]⊙删除用户配置[CR]⊙更改用户设置</string>
+  <string id="31121">显示关机选项[CR][CR]※包括：[CR][CR]⊙关闭 Xbox[CR]⊙重启 XBMC[CR]⊙重启 Xbox[CR]⊙退出至原厂系统</string>
+  <string id="31122">修改视频设置[CR][CR]※包括：[CR] [CR]⊙屏幕校准[CR]⊙视频滤镜[CR]⊙字幕[CR]⊙后期处理[CR]⊙文件查看</string>
+  <string id="31123">修改音乐设置[CR][CR]※包括：[CR] [CR]⊙视频效果[CR]⊙播放列表[CR]⊙撷取 CD 音轨[CR]⊙卡拉OK</string>
+  <string id="31124">修改图片设置[CR][CR]※包括：[CR] [CR]⊙播放图片[CR]⊙缩略图</string>
+  <string id="31125">建立程序和[CR]Xlink Kai 设置[CR][CR]※包括：[CR][CR]⊙检视图标[CR]⊙xbe 使用[CR]⊙Kai 登陆信息</string>
+  <string id="31126">修改网络和共享设置[CR][CR]※包括：[CR][CR]⊙闸道和 DNS 服务器[CR]⊙Samba 文件共享[CR]⊙XBMC 自动侦测[CR]⊙FTP 和 Web 服务器</string>
+  <string id="31127">选择天气显示[CR][CR]※包括：[CR][CR]⊙3个城市[CR]⊙风速[CR]⊙温度</string>
+  <string id="31128">重要系统设置[CR][CR]※包括：[CR][CR]⊙自动关机[CR]⊙自动执行[CR]⊙风扇转速[CR]⊙前方指示灯[CR]⊙液晶荧幕</string>
+  <string id="31129">检视系统重要讯息[CR][CR]※包括：[CR][CR]⊙存储体[CR]⊙硬件[CR]⊙网络</string>
+  <string id="31130">查看 XBMC 和桌面开发小组</string>
+  <string id="31131">查看 MC360 和 Blackbolt 团队开发小组</string>
+  <string id="31132">放入游戏、DVD、[CR]VCD、音乐 CD、[CR]MP3CD 或 相片 CD</string>
+  <string id="31133">播放：$INFO[System.DVDLabel]</string>
+  <string id="31134">开启导览页面[CR]进入附加功能[CR]和关机菜单</string>
+  <string id="31135">关机菜单</string>
+  <string id="31136">重新启动 Xbox</string>
+  <string id="31137">按 A 键你的 Xbox 将安全地关机</string>
+  <string id="31138">你的 Xbox 进行冷开机，任何[CR]播放中的媒体将被停止</string>
+  <string id="31139">重新启动 XBMC，这将停止任何[CR]播放中的媒体</string>
+  <string id="31140">载入你在系统设置[CR]选择的原厂系统</string>
+  <string id="31141">登出你的设置回到登陆画面</string>
+  <string id="31142">对 XBMC 各个部分[CR]开启或关闭管理员锁定</string>
+
+  <string id="31159">关闭 RSS 新闻显示</string>
+  <string id="31160">关闭说明文字显示</string>
+  <string id="31161">关闭 MC360 导航</string>
+  <string id="31162">关闭页面特效</string>
+
+  <string id="31164">关闭背景视频</string>
+  <string id="31165">MC360 开发小组</string>
+  <string id="31166">天气资讯卡</string>
+  <string id="31167">系统资讯卡</string>
+  <string id="31168">玩家卡</string>
+  <string id="31169">选择主页面卡</string>
+  <string id="31170">主页面时间显示</string>
+  <string id="31171">选择桌布套件</string>
+
+  <string id="31173">启用“现正播放”卡</string>
+  <string id="31174">关闭音乐视觉效果</string>
+  <string id="31175">启用银级玩家卡</string>
+  <string id="31176">使用者最后登陆</string>
+  <string id="31177">按 A 键播放碟片</string>
+  <string id="31178">剧情：</string>
+  <string id="31179">演员：</string>
+  <string id="31180">视觉效果全荧幕</string>
+  <string id="31181">视频全荧幕</string>
+  <string id="31182">暂停</string>
+  <string id="31183">播放</string>
+  <string id="31184">后退</string>
+  <string id="31185">前进</string>
+  <string id="31186">视频设置</string>
+  <string id="31187">声音和字幕设置</string>
+  <string id="31188">播放列表</string>
+  <string id="31189">书签</string>
+  <string id="31190">DVD 菜单</string>
+  <string id="31191">目前天气状况：</string>
+  <string id="31192">气温</string>
+
+  <string id="31195">更新 XBMC</string>
+
+  <string id="31197">观赏在线视频</string>
+
+  <string id="31199">检查 MC360 更新</string>
+  <string id="31200">自动检查更新</string>
+  <string id="31201">自动更新玩家卡</string>
+  <string id="31202">立即更新玩家卡</string>
+  <string id="31203">关闭宽图标标签</string>
+  <string id="31204">重设所有玩家标签、页面选项、[CR]自订背景，你确定要继续？[CR][CR][CR]</string>
+  <string id="31205">附加脚本选项</string>
+  <string id="31206">AMT 在媒体页面</string>
+  <string id="31207">AccuWeather 在天气页面</string>
+  <string id="31208">雷达</string>
+  <string id="31209">注意！！[CR]上列脚本是不包括在 MC360[CR]的第三方脚本，需要安装在[CR]XBMC 脚本资料夹下，才能[CR]正常执行！</string>
+  <string id="31210">歌曲歌词</string>
+  <string id="31211">XBMC Lyrics 在音乐工具列</string>
+  <!-- set_gamercard -->
+  <string id="31212">玩家卡</string>
+  <string id="31213">查出 DNS 可能是</string>
+  <string id="31214">不正确地工作</string>
+  <string id="31215">请尝试再设置</string>
+  <string id="31216">下载</string>
+  <string id="31217">从 Xbox.com</string>
+  <string id="31218">撷取玩家卡</string>
+  <string id="31219">编辑玩家卡</string>
+  <string id="31220">取消</string>
+  <string id="31221">输入 Xbox.com 玩家标签</string>
+  <string id="31222">空白名称</string>
+  <string id="31223">设置维持不变</string>
+  <string id="31224">没有发现互联网</string>
+  <string id="31225">你是否想保持旧信息</string>
+  <!-- DialogKaiToast -->
+  <string id="31226">MC360 用户</string>
+  <string id="31227">刚刚登陆</string>
+  <!-- LoginScreen -->
+  <string id="31228">登陆</string>
+  <!-- updatecheck -->
+  <string id="31229">无更新可用</string>
+  <string id="31230">你的 MC360 是最新版本！[CR]请记得在往后检查更新</string>
+  <string id="31231">[CR]当前版本：%s[CR]最新版本：%s</string>
+  <string id="31232">有更新可用</string>
+  <string id="31233">有更新可供你的 MC360 皮肤使用[CR][CR]请访问[CR]http://blackbolt.x-scene.com[CR][CR]按照所下载的 zip 文件的安装说明[CR]妥善安装到 xbox 媒体中心.[CR][CR]当前版本：%s[CR]最新版本：%s</string>
+  <!-- setwallpaperpacks -->
+  <string id="31234">有壁纸包的一个目录</string>
+  <string id="31235">图片</string>
+  <string id="31236">%s 壁纸未被发现</string>
+  <string id="31237">按下确认继续</string>
+  <string id="31238">MC360</string>
+</strings>

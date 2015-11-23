@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!-- Translated by SpecTrax -->
+<strings>
+  <string id="31002">Spill</string>
+  <string id="31003">Media</string>
+
+  <string id="31005">System</string>
+
+  <string id="31008">Filmer</string>
+  <string id="31009">MC360 Guide</string>
+  <string id="31010">Minne</string>
+  <!-- These Blade Headers should be in LOWER CASE, no capitol first letters -->
+  <string id="31011">spill</string>
+  <string id="31012">media</string>
+
+  <string id="31014">system</string>
+
+  <string id="31018">xbmc live</string>
+  <!-- End of LOWER CASE headers -->
+  <string id="31019">Logg inn</string>
+  <string id="31020">Meldinger</string>
+  <string id="31021">Venner</string>
+  <string id="31022">Koble til Xlink Kai</string>
+  <string id="31023">Xlink KAI ikke tilkoblet</string>
+  <string id="31024">Velg</string>
+  <string id="31025">Filutforsker</string>
+
+  <string id="31027">Tilbake</string>
+
+  <string id="31029">Markør</string>
+  <string id="31030">Symboler</string>
+  <string id="31031">Shift</string>
+  <string id="31032">Caps</string>
+  <string id="31033">Mellomrom</string>
+  <string id="31034">Backspace</string>
+  <string id="31035">Utfør</string>
+  <string id="31036">Xbox Arkade</string>
+  <string id="31037">Programmer</string>
+
+  <string id="31040">Filmtrailere</string>
+  <string id="31041">Musikk - Filer</string>
+  <string id="31042">Musikk - Bibliotek</string>
+  <string id="31043">Musikk - Spilleliste</string>
+
+  <string id="31045">Nå Spilles</string>
+  <string id="31046">Film - Filer</string>
+  <string id="31047">Film - Bibliotek</string>
+  <string id="31048">Community</string>
+  <string id="31049">XBMC Live</string>
+  <string id="31050">Favoritter</string>
+  <string id="31051">XBMC Live Place</string>
+  <string id="31052">Media Instillinger</string>
+  <string id="31053">System Instillinger</string>
+  <string id="31054">Profil Manager</string>
+  <string id="31055">Personlige Instillinger</string>
+  <string id="31056">Velg Musikk</string>
+  <string id="31057">Løs ut/Lukk DVD</string>
+  <string id="31058">Løs ut DVD</string>
+  <string id="31059">Lukk DVD</string>
+  <string id="31060">Leser...</string>
+  <string id="31061">Utseende</string>
+  <string id="31062">Bakgrunner</string>
+
+  <string id="31064">Velg separate bakgrunner</string>
+  <string id="31065">Fjern alle bakgrunner</string>
+  <string id="31066">Deaktivér BG animasjoner</string>
+
+  <string id="31069">Guideblad</string>
+
+  <string id="31072">Fjern alle instillinger</string>
+  <string id="31073">Avanserte Instillinger</string>
+  <string id="31074">Instillinger</string>
+  <string id="31075">Deaktivér listeikoner</string>
+  <string id="31076">Deaktivér musikkikoner</string>
+  <string id="31077">Bruk Lav Lydstyrke</string>
+
+  <string id="31080">Tilpass Spillekort</string>
+  <string id="31081">Konfigurer spillekort</string>
+  <string id="31082">Hent XBox.com spillekort</string>
+  <string id="31083">Velg spillertag</string>
+  <string id="31084">Velg spillerbilde</string>
+  <string id="31085">Velg spillerpoeng</string>
+  <string id="31086">Velg spillesone</string>
+
+  <string id="31088">Fjern Tilpasninger</string>
+  <string id="31089">Legg til i spilleliste</string>
+  <string id="31090">Filmer - Spilleliste</string>
+  <string id="31091">Fjern fra spilleliste</string>
+  <string id="31092">Høydepunkts filer</string>
+  <string id="31093">Xlink Kai: Evolution VII</string>
+  <string id="31094">Lar deg koble til andre spillere rundt om i verden og spille online-spill gratis.</string>
+  <string id="31095">XBMC Live Place</string>
+  <string id="31096">Last ned Temaer fra XBMC Black Market Tema siden, Spill av Internettfilmer og Oppdater XBMC</string>
+
+  <string id="31099">Installerte XBMC Scripts</string>
+
+  <string id="31101">Black Market Temaer</string>
+
+  <string id="31104">Utforske, Kopiere, Slette, Flytte Filer på din Xbox Harddisk.</string>
+  <string id="31105">Sjekk 4 dagers værvarsel for 3 forskjellige Steder</string>
+  <string id="31106">Skriv inn Spillertag for å laste ned Xbox.com spillekort</string>
+  <string id="31107">Spill Xboxspill lagret på din harddisk.</string>.
+  <string id="31108">Utforsk og nyt en samling av enkle, rolige spill.</string>
+  <string id="31109">Ulike programmer lagret på harddisk eller DVD.</string>
+  <string id="31110">Håndtér lagret data, kopier, fjern eller last ned nye gamesaves fra internett.</string>
+
+  <string id="31112">Hør på musikk lagret på PC, CD, DVD eller Harddisk.</string>
+  <string id="31113">Se på bilder lagret på PC, CD, DVD eller Harddisk.</string>
+  <string id="31114">Se på filmer lagret på PC, CD, DVD eller Harddisk.</string>
+  <string id="31115">Se på filmtrailere direkte fra internett med Apple Movie Trailers Script</string>
+  <string id="31116">Utfør Systemvedlikehold, Inkludert:[CR][CR]* Konfigurer Xbox Harddisk[CR]* Konfigurer gamesaves</string>
+  <string id="31117">Konfigurer Skjerminstillinger, inkludert:[CR][CR]* GUI kalibrering[CR]* Velg skin[CR]* Skjermsparer[CR]* Dato &amp; Tid</string>
+  <string id="31118">Konfigurer Media instillinger, Inkludert:[CR][CR]* Film[CR]* Musikk[CR]* Bilder[CR]* Programmer</string>
+  <string id="31119">Konfigurer Systeminstillinger, Inkludert:[CR][CR]* Systemet Generelt[CR]* Været[CR]* Nettverk Konfigurasjon</string>
+  <string id="31120">Konfigurer Bruker Profiler, Inckludert:[CR][CR]* Opprett Profiler[CR]* Slett Profiler[CR]* Forandre bruker instillinger</string>
+  <string id="31121">Vis Avsluttnings alternativer, Inkludert:[CR][CR]* Slå av Xbox[CR]* Start XBMC på nytt[CR]* Start Xbox på nytt[CR]* Tilbake til Dashboard</string>
+  <string id="31122">Konfigurer Videoinstillinger, inkludert: [CR][CR]* Skjermkalibrering[CR]* Videofilter[CR]* Etterbehandling[CR]* Visning</string>
+  <string id="31123">Konfigurer Lydinstillinger, inkludert: [CR][CR]* Visualisering[CR]* Spillelister[CR]* CD Ripping[CR]* Karaoke</string>
+  <string id="31124">Konfigurer Bildeinstillinger, inkludert: [CR][CR]* Bildefremvisning[CR]* Ikoner</string>
+  <string id="31125">Konfigurer Program og Xlink Kai instillinger, inkludert: [CR][CR]* Ikonvisning[CR]* Bruk av .xbe[CR]* Kai Påloggings detaljer</string>
+  <string id="31126">Konfigurer Nettverk og delings instillinger, inkludert: [CR][CR]* Gateway &amp; DNS[CR]* Samba Fildeling[CR]* XBMC Auto-oppdagelse[CR]* FTP &amp; Webbserver</string>
+  <string id="31127">Konfigurer Værinstillinger, inkludert: [CR][CR]* 3 Byer[CR]* Vindhastighet[CR]* Temperatur</string>
+  <string id="31128">Konfigurer Viktige Systeminstillinger, inkludert: [CR][CR]* Slå av Auto[CR]* Start Auto[CR]* Viftehastighet[CR]* Front LED[CR]* LCD</string>
+  <string id="31129">Kontroller Systeminformasjon, inkludert: [CR][CR]* Lagring[CR]* Hardware[CR]* Nettverk</string>
+  <string id="31130">Se Xbox Media Center og Skin Credits.</string>
+  <string id="31131">Se MC360 og Team Blackbolt Skin Credits.</string>
+  <string id="31132">Sett inn et Spill, DVD, VCD, Lyd CD, MP3 CD eller Foto CD.</string>
+  <string id="31133">Spill av: $INFO[System.DVDLabel]</string>
+  <string id="31134">Åpne guidebladet for å få tilgang til ekstra tillegg og for å slå av.</string>
+  <string id="31135">Slå av</string>
+  <string id="31136">Start på Nytt</string>
+  <string id="31137">Trykk A for å slå av Xboxen på riktig måte.</string>
+  <string id="31138">Start xboxen på nytt, avspilt media stoppes.</string>
+  <string id="31139">Start Xbox Media Center på nytt, avspilt media stoppes.</string>
+  <string id="31140">Laster eksternt dashboard valgt i instillinger.</string>
+  <string id="31141">Logg ut og gå tilbake til innlogging.</string>
+  <string id="31142">Aktivér eller deaktivér masterlås for hver seksjon av XBox Media Center.</string>
+
+  <string id="31159">Deaktivér RSS Feeds</string>
+  <string id="31160">Deaktivér Forklaringstekst</string>
+  <string id="31161">Deaktivér MC360 Guide</string>
+  <string id="31162">Deaktivér Bladskygger</string>
+
+  <string id="31164">Deaktivér BG Video</string>
+  <string id="31165">MC360 Credits</string>
+  <string id="31166">Værkort</string>
+  <string id="31167">InfoKort</string>
+  <string id="31168">Spillerkort</string>
+  <string id="31169">Velg korttype</string>
+  <string id="31170">Klokke på hovedbladet</string>
+  <string id="31171">Velg bakgrunnspakke</string>
+
+  <string id="31173">Bruk Nå Spilleskort</string>
+  <string id="31174">Deaktivér BG visualisering</string>
+  <string id="31175">Bruk sølv-spillekort</string>
+  <string id="31176">Bruker sist innlogget</string>
+  <string id="31177">Trykk A for å spille av.</string>
+  <string id="31178">Handling:</string>
+  <string id="31179">Skuespillere:</string>
+  <string id="31180">Fullskjermvisualisering</string>
+  <string id="31181">Fullskjermsvideo</string>
+  <string id="31182">Pause</string>
+  <string id="31183">Spill Av</string>
+  <string id="31184">Tilbake</string>
+  <string id="31185">Fremover</string>
+  <string id="31186">Videoinstillinger</string>
+  <string id="31187">Lydinstillinger</string>
+  <string id="31188">Spilleliste</string>
+  <string id="31189">Bokmerker</string>
+  <string id="31190">DVD Meny</string>
+  <string id="31191">Nåværende værforhold:</string>
+  <string id="31192">Temperatur</string>
+
+  <string id="31195">Oppdater XBMC</string>
+
+  <string id="31197">Se Filmer Online</string>
+
+  <string id="31199">Se etter MC360 oppdateringer</string>
+  <string id="31200">Automatisk se etter oppdateringer</string>
+  <string id="31201">Automatisk Spillerkort oppdatering</string>
+  <string id="31202">Oppdater Spillerkort</string>
+  <string id="31203">Deaktivér brede Ikoner</string>
+  <string id="31204">Dette vill tilbakestille alle dine spilltags instillinger, alle Guide instillinger og alle dine bakgrunner er du sikker på at du vill fortsette.[CR][CR][CR]</string>
+  <string id="31205">Tilleggs Scripts Instillinger</string>
+  <string id="31206">AMT på Mediabladet</string>
+  <string id="31207">AccuWeather i Været</string>
+  <string id="31208">Radar</string>
+  <string id="31209">Merknad !! Dette er Third Party Scripts og er ikke inkludert i mc360. [CR][CR]Du må ha dem installert på de korrekte plassene i scripts mappen av XBMC for at knappene skal fungere.</string>
+  <string id="31210">Sangtekster</string>
+  <string id="31211">XBMC Tekster i Musikk Panel</string>
+  <!-- set_gamercard -->
+  <string id="31212">Spillerkort</string>
+  <string id="31213">Detektér at DNS er mest sansynlig</string>
+  <string id="31214">Virker ikke korrekt</string>
+  <string id="31215">Sett inn og prøv på nytt</string>
+  <string id="31216">Laster</string>
+  <string id="31217">Fra Xbox.com</string>
+  <string id="31218">Hent Spillerkort</string>
+  <string id="31219">Rediger Spillerkort</string>
+  <string id="31220">Avbryt</string>
+  <string id="31221">Sett inn Xbox.com Spillertag</string>
+  <string id="31222">Blankt Navn angitt</string>
+  <string id="31223">Innstillinger Uendret</string>
+  <string id="31224">Internet ikke tilgjengelig</string>
+  <string id="31225">Ønsker du fortsatt beholde tidligere informasjon?</string>
+  <!-- DialogKaiToast -->
+  <string id="31226">MC360 Bruker</string>
+  <string id="31227">har logget inn</string>
+  <!-- LoginScreen -->
+  <string id="31228">Logg Inn</string>
+  <!-- updatecheck -->
+  <string id="31229">Ingen Oppdateringer Tilgjengelig</string>
+  <string id="31230">Din MC360 er oppdatert med seneste versjon. Hver sikker på[CR]sjekk oppdateringer ved en senere anledning.</string>
+  <string id="31231">Nåværende Versjon: %s[CR]Tilgjengelig Versjon: %s</string>
+  <string id="31232">Oppdatering Tilgjengelig</string>
+  <string id="31233">Det er en oppdatering tilgjengelig for[CR]ditt MC360 skin/Tema. Venligst besøk [CR]http://blackbolt.x-scene.com [CR][CR]Følg installasjonsinstruksen i[CR]readme.txt filen i den nedlastede .zip fila for[CR]korrekt installasjon til Xbox Media Center.[CR][CR]Nåværende Versjon: %s[CR]Tilgjengelig Versjon: %s</string>
+  <!-- setwallpaperpacks -->
+  <string id="31234">mappe med bakgrunnsbilder</string>
+  <string id="31235">bilder</string>
+  <string id="31236">Ingen %s bakgrunnsbilder ble funnet</string>
+  <string id="31237">Trykk OK for å fortsette</string>
+  <string id="31238">MC360</string>
+</strings>

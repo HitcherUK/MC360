@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="31002">게임</string>
+  <string id="31003">미디어</string>
+
+  <string id="31005">시스템</string>
+
+  <string id="31008">비디오</string>
+  <string id="31009">MC360 가이드</string>
+  <string id="31010">메모리</string>
+  <!-- These Blade Headers should be in LOWER CASE, no capitol first letters -->
+  <string id="31011">게임</string>
+  <string id="31012">미디어</string>
+
+  <string id="31014">시스템</string>
+
+  <string id="31018">XBMC 라이브</string>
+  <!-- End of LOWER CASE headers -->
+  <string id="31019">로그인</string>
+  <string id="31020">쪽지</string>
+  <string id="31021">친구들</string>
+  <string id="31022">-</string>
+  <string id="31023">-</string>
+  <string id="31024">선택</string>
+  <string id="31025">파일탐색기</string>
+
+  <string id="31027">뒤로</string>
+
+  <string id="31029">커서</string>
+  <string id="31030">기호</string>
+  <string id="31031">쉬트프</string>
+  <string id="31032">대문자</string>
+  <string id="31033">스페이스</string>
+  <string id="31034">백스페이스</string>
+  <string id="31035">완료</string>
+  <string id="31036">XBOX 아케이드</string>
+  <string id="31037">어플리케이션</string>
+
+  <string id="31040">영화 예고편</string>
+  <string id="31041">음악 - 파일</string>
+  <string id="31042">음악 - 라이브러리</string>
+  <string id="31043">음악 - 재생목록</string>
+
+  <string id="31045">지금 재생중</string>
+  <string id="31046">비디오 - 파일</string>
+  <string id="31047">비디오 - 라이브러리</string>
+  <string id="31048">커뮤니티</string>
+  <string id="31049">XBMC 라이브</string>
+  <string id="31050">즐겨찾기</string>
+  <string id="31051">XBMC 라이브 플레이스</string>
+  <string id="31052">미디어 설정</string>
+  <string id="31053">시스템 설정</string>
+  <string id="31054">프로필 관리자</string>
+  <string id="31055">개인 설정</string>
+  <string id="31056">음악 선택</string>
+  <string id="31057">트레이 열기/닫기</string>
+  <string id="31058">트레이 열기</string>
+  <string id="31059">트레이 닫기</string>
+  <string id="31060">읽는중...</string>
+  <string id="31061">테마 설정</string>
+  <string id="31062">바탕화면 설정</string>
+
+  <string id="31064">개별 바탕화면 설정</string>
+  <string id="31065">모든 바탕화면 리셋</string>
+  <string id="31066">배경시각효과 끄기</string>
+
+  <string id="31069">가이드 블레이드</string>
+
+  <string id="31071">스킨설정 리셋</string>
+  <string id="31072">모든설정 리셋</string>
+  <string id="31073">확장 옵션</string>
+  <string id="31074">옵션</string>
+  <string id="31075">목록 썸네일 끄기</string>
+  <string id="31076">음악 썸네일 끄기</string>
+  <string id="31077">라이브볼륨 아이콘</string>
+
+  <string id="31080">게이머카드 설정</string>
+  <string id="31081">게이머카드 옵션</string>
+  <string id="31082">게이머카드 받아오기</string>
+  <string id="31083">게이머태그 입력</string>
+  <string id="31084">게이머사진 선택</string>
+  <string id="31085">게이머점수 입력</string>
+  <string id="31086">게이머존 선택</string>
+
+  <string id="31088">Remove Custom</string>
+  <string id="31089">재생목록에 추가</string>
+  <string id="31090">비디오 - 재생목록</string>
+  <string id="31091">재생목록에서 제거</string>
+  <string id="31092">파일 선택</string>
+  <string id="31093">-</string>
+  <string id="31094">-</string>
+  <string id="31095">XBMC 라이브 플레이스</string>
+  <string id="31096">XBMC 블랙 마켓 사이트를 통해 테마 다운로드,인터넷비디오나 XBMC업데이트를 합니다</string>
+
+  <string id="31099">XBMC 스크립트 설치</string>
+
+  <string id="31101">블랙 마켓 테마</string>
+
+  <string id="31104">하드 드라이브에서 파일을 탐색,복사,삭제,이동을 합니다</string>
+  <string id="31105">4일간의 3개 도시의 날씨를 확인합니다</string>
+  <string id="31106">XBOX.com에서 게이머카드를 받아오거나 게이머카드 설정을 합니다</string>
+  <string id="31107">하드 드라이브에 설치된 게임을 합니다</string>
+  <string id="31108">심플하고 간단한 아케이드 게임을 즐깁니다</string>
+  <string id="31109">하드 드라이브에 설치된 XBOX 어플리케이션 프로그램을 사용합니다</string>
+  <string id="31110">새로운 세이브파일을 다운로드하거나 복사,삭제및 관리를 합니다</string>
+
+  <string id="31112">PC,CD,DVD그리고 하드드라이브에 있는 음악을 듣습니다</string>
+  <string id="31113">PC,CD,DVD그리고 하드드라이브에 있는 사진을 감상합니다</string>
+  <string id="31114">PC,CD,DVD그리고 하드드라이브에 있는 비디오를 감상합니다</string>
+  <string id="31115">apple.com으로부터 퀵타임 영화 예고편을 감상합니다</string>
+  <string id="31116">전반적인 시스템 관리:[CR][CR]* 하드 드라이브 관리[CR]* 세이브파일 관리</string>
+  <string id="31117">디스플레이 설정:[CR][CR]* GUI 화면조정[CR]* 스킨 선택[CR]* 화면보호기[CR]* 날짜 &amp; 시간</string>
+  <string id="31118">미디어 설정:[CR][CR]* 비디오[CR]* 음악[CR]* 사진[CR]* 프로그램</string>
+  <string id="31119">시스템 설정:[CR][CR]* 전반적인 시스템[CR]* 기상정보[CR]* 네트워크 설정</string>
+  <string id="31120">프로필 관리:[CR][CR]* 프로필 생성[CR]* 프로필 삭제[CR]* 유저설정 변경</string>
+  <string id="31121">전원 옵션:[CR][CR]* XBOX 전원끔[CR]* XBMC 재시작[CR]* XBOX 재시작[CR]* 대시보드로 나가기</string>
+  <string id="31122">비디오 설정:[CR][CR]* 화면조정[CR]* 비디오 필터[CR]* 포스트 프로세싱[CR]* 파일보기</string>
+  <string id="31123">오디오 설정:[CR][CR]* 비쥬얼효과[CR]* 재생목록[CR]* CD 리핑[CR]* 노래방</string>
+  <string id="31124">사진 설정:[CR][CR]* 슬라이드쇼[CR]* 썸네일</string>
+  <string id="31125">프로그램과 Xlink Kai 설정:[CR][CR]* 아이콘 보기[CR]* .xbe 선택[CR]* Kai 로그인 설정</string>
+  <string id="31126">네트워크와 공유 설정:[CR][CR]* 게이트웨이 &amp; DNS[CR]* 삼바 파일 공유[CR]* XBMC 자동설정[CR]* FTP &amp; 웹서버</string>
+  <string id="31127">기상정보 설정:[CR][CR]* 3개 도시[CR]* 풍소[CR]* 현재기온</string>
+  <string id="31128">중요한 시스템 설정:[CR][CR]* 자동종료[CR]* 자동실행[CR]* 팬 속도[CR]* 전면 LED[CR]* LCD</string>
+  <string id="31129">시스템을 체크:[CR][CR]* 저장매체[CR]* 하드웨어[CR]* 네트워크</string>
+  <string id="31130">XBOX 미디어 센터와 스킨에 대하여 확인합니다</string>
+  <string id="31131">MC360의 스킨과 제작팀들을 확인합니다</string>
+  <string id="31132">게임 디스크와,DVD,VCD,오디오CD,MP3 CD나 포토 CD를 넣으십시오</string>
+  <string id="31133">재생: $INFO[System.DVDLabel]</string>
+  <string id="31134">가이드 블레이드를 불러와 즐겨찾기나 개별설정을 합니다</string>
+  <string id="31135">전원끔</string>
+  <string id="31136">XBOX 리부트</string>
+  <string id="31137">A버튼을 누르면 안전하게 XBOX콘솔 전원을 오프합니다</string>
+  <string id="31138">재생중인 모든것은 정지하고 XBOX 콘솔을 재시작합니다</string>
+  <string id="31139">재생중인 모든것은 정지하고 XBOX 미디어 센터를 재시작합니다</string>
+  <string id="31140">당신이 선택한 기본 대시보드를 불러옵니다</string>
+  <string id="31141">프로필에서 로그오프하고 로그인화면으로 돌아갑니다</string>
+  <string id="31142">XBOX 미디어 센터에 가능한 마스터락 설정을 하거나 해제합니다</string>
+
+  <string id="31159">RSS 피딩 끄기</string>
+  <string id="31160">메뉴설명 끄기</string>
+  <string id="31161">가이드버튼 끄기</string>
+  <string id="31162">블레이드 흐림효과 끄기</string>
+
+  <string id="31164">백그라운드 영상재생 끄기</string>
+  <string id="31165">MC360 대하여</string>
+  <string id="31166">날씨카드</string>
+  <string id="31167">정보카드</string>
+  <string id="31168">게이머카드</string>
+  <string id="31169">카드타잎을 선택</string>
+  <string id="31170">홈블레이드 시간표시</string>
+  <string id="31171">바탕화면팩 선택</string>
+
+  <string id="31173">현재재생중카드 사용</string>
+  <string id="31174">백그라운드 시각효과 끄기</string>
+  <string id="31175">실버게이머카드 사용</string>
+  <string id="31176">가(이) 마지막으로 로그인</string>
+  <string id="31177">A버튼을 눌러 디스크를 재생</string>
+  <string id="31178">줄거리:</string>
+  <string id="31179">출연:</string>
+  <string id="31180">비쥬얼효과 풀스크린</string>
+  <string id="31181">비디오화면 풀스크린</string>
+  <string id="31182">일시정지</string>
+  <string id="31183">재생</string>
+  <string id="31184">뒤로 스킵</string>
+  <string id="31185">앞으로 스킵</string>
+  <string id="31186">비디오 설정</string>
+  <string id="31187">오디오 설정</string>
+  <string id="31188">재생목록</string>
+  <string id="31189">북마크</string>
+  <string id="31190">DVD 메뉴</string>
+  <string id="31191">기상상태:</string>
+  <string id="31192">현재기온</string>
+
+  <string id="31195">XBMC 업데이트</string>
+
+  <string id="31197">온라인 비디오 보기</string>
+
+  <string id="31199">MC360 업데이트 체크</string>
+  <string id="31200">자동업데이트 체크</string>
+  <string id="31201">게이머카드 자동업데이트</string>
+  <string id="31202">지금게이머카드를 업데이트</string>
+  <string id="31203">와이드아이콘 레이블 끄기</string>
+  <string id="31204">모든 게이머태그설정과 가이드옵션 개별 설정을 초기화 합니다[CR][CR][CR]</string>
+  <string id="31205">스크립트 추가 옵션</string>
+  <string id="31206">AMT on Media Blade</string>
+  <string id="31207">AccuWeather in Weather</string>
+  <string id="31208">레이더</string>
+  <string id="31209">주의 !! 해당스크립트는 MC360에 기본적으로 설치되어 있지 않습니다[CR][CR]설치하신뒤에 버튼을 활성화시키시길 바랍니다</string>
+  <string id="31210">노래 가사</string>
+  <string id="31211">XBMC Lyrics in Music OSD</string>
+  <!-- set_gamercard -->
+  <string id="31212">GamerCard</string>
+  <string id="31213">Detected that DNS is most likey</string>
+  <string id="31214">not working correctly</string>
+  <string id="31215">Please set and try again</string>
+  <string id="31216">Downloading</string>
+  <string id="31217">From Xbox.com</string>
+  <string id="31218">Grab GamerCard</string>
+  <string id="31219">Edit GamerCard</string>
+  <string id="31220">Cancel</string>
+  <string id="31221">Enter Xbox.com Gamertag</string>
+  <string id="31222">Blank Name given</string>
+  <string id="31223">Settings remain unchanged</string>
+  <string id="31224">No Internet Found</string>
+  <string id="31225">Would you like to keep old info</string>
+  <!-- DialogKaiToast -->
+  <string id="31226">MC360 user</string>
+  <string id="31227">has just signed in</string>
+  <!-- LoginScreen -->
+  <string id="31228">로그인</string>
+  <!-- updatecheck -->
+  <string id="31229">No Update Available</string>
+  <string id="31230">Your MC360 is up-to-date. Be sure to[CR]check for updates at a later time.</string>
+  <string id="31231">Current Version: %s[CR]Available Version: %s</string>
+  <string id="31232">Update Available</string>
+  <string id="31233">There is an Update Available for[CR]your MC360 skin. Please visit [CR]http://blackbolt.x-scene.com [CR][CR]Follow the installation instructions in the[CR]readme.txt file in the download .zip for[CR]proper installation to Xbox Media Center.[CR][CR]Current Version: %s[CR]Available Version: %s</string>
+  <!-- setwallpaperpacks -->
+  <string id="31234">폴더와함께 바탕화면팩</string>
+  <string id="31235">사진</string>
+  <string id="31236">%s 바탕화면을 찾지 못했습니다</string>
+  <string id="31237">OK버튼을 누르면 계속합니다</string>
+  <string id="31238">MC360</string>
+</strings>

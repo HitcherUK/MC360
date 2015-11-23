@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!-- Translated by Goritek -->
+<!-- Last updated 16th december 2007 -->
+<strings>
+  <string id="31002">Spil</string>
+  <string id="31003">Medie</string>
+
+  <string id="31005">System</string>
+
+  <string id="31008">Videoer</string>
+  <string id="31009">MC360 Guide</string>
+  <string id="31010">Hukommelse</string>
+  <!-- These Blade Headers should be in LOWER CASE, no capitol first letters -->
+  <string id="31011">spil</string>
+  <string id="31012">medie</string>
+
+  <string id="31014">system</string>
+
+  <string id="31018">xbmc live</string>
+  <!-- End of LOWER CASE headers -->
+  <string id="31019">Login</string>
+  <string id="31020">Meddelelser</string>
+  <string id="31021">Venner</string>
+  <string id="31022">Tilslut til Xlink Kai</string>
+  <string id="31023">Xlink KAI er ikke tilsluttet</string>
+  <string id="31024">Vælg</string>
+  <string id="31025">File Explorer</string>
+
+  <string id="31027">Tilbage</string>
+
+  <string id="31029">Cursor</string>
+  <string id="31030">Symboler</string>
+  <string id="31031">Shift</string>
+  <string id="31032">Caps</string>
+  <string id="31033">Mellemrum</string>
+  <string id="31034">Backspace</string>
+  <string id="31035">Udfør</string>
+  <string id="31036">Xbox Arkade</string>
+  <string id="31037">Programmer</string>
+
+  <string id="31040">Filmtrailere</string>
+  <string id="31041">Musik - Filer</string>
+  <string id="31042">Musik - Bibliotek</string>
+  <string id="31043">Musik - Afspilningsliste</string>
+
+  <string id="31045">Aktuel afspilning</string>
+  <string id="31046">Video - Filer</string>
+  <string id="31047">Video - Bibliotek</string>
+  <string id="31048">Community</string>
+  <string id="31049">XBMC Live</string>
+  <string id="31050">Favoritter</string>
+  <string id="31051">XBMC Live Place</string>
+  <string id="31052">Medieindstillinger</string>
+  <string id="31053">Systemindstillinger</string>
+  <string id="31054">Profil Manager</string>
+  <string id="31055">Personlige Indstillinger</string>
+  <string id="31056">Vælg Musik</string>
+  <string id="31057">Åben/Luk Drev</string>
+  <string id="31058">Åben Drev</string>
+  <string id="31059">Luk Drev</string>
+  <string id="31060">Indlæser...</string>
+  <string id="31061">Tilpas Tema</string>
+  <string id="31062">Tilpas Baggrundsbilleder</string>
+
+  <string id="31064">Sæt Separate Baggrundsbilleder</string>
+  <string id="31065">Fjern Alle Baggrundsbilleder</string>
+  <string id="31066">Deaktiver BG Animation</string>
+
+  <string id="31069">Guide Blade</string>
+
+  <string id="31072">Ryd Alle Indstillinger</string>
+  <string id="31073">Avancerede Valgmuligheder</string>
+  <string id="31074">Valgmuligheder</string>
+  <string id="31075">Deaktiver Liste Thumbnail</string>
+  <string id="31076">Deaktiver Musik Thumbnail</string>
+  <string id="31077">Brug Lav Lydstyrke</string>
+
+  <string id="31080">Tilpas GamerCard</string>
+  <string id="31081">GamerCard Indstillinger</string>
+  <string id="31082">Hent Xbox.com GamerCard</string>
+  <string id="31083">Indstil Gamer Tag</string>
+  <string id="31084">Indstil Gamer Billede</string>
+  <string id="31085">Indstil Gamer Score</string>
+  <string id="31086">Indstil Gamer Zone</string>
+
+  <string id="31088">Fjern Tilpasning</string>
+  <string id="31089">Tilføj til Afspilningsliste</string>
+  <string id="31090">Video - Afspilningsliste</string>
+  <string id="31091">Fjern fra Afspilningsliste</string>
+  <string id="31092">Højdepunkts filer</string>
+  <string id="31093">Xlink Kai: Evolution VII</string>
+  <string id="31094">Gør det muligt at tilslutte dig andre konsolbrugere i verdenen, og spille onlinespil helt gratis.</string>
+  <string id="31095">XBMC Live Place</string>
+  <string id="31096">Hent Temaer fra XBMC Black Market Themes side, Afspil Internetvideoer og Opdatér XBMC</string>
+
+  <string id="31099">Installerede XBMC Skripts</string>
+
+  <string id="31101">Black Market Themes</string>
+
+  <string id="31104">Udforsk, Kopiér, Slet, Flyt filer til din Xbox's Harddisk</string>
+  <string id="31105">Bliv opdateret på Vejrudsigten for de næste 4 dage fra 3 forskellige Destinationer</string>
+  <string id="31106">Tilpas dit Gamercard type eller link din Xbox.com profil.</string>
+  <string id="31107">Spille opbevaret spil fra din Xbox's Harddisk.</string>
+  <string id="31108">Udforsk og Nyd en kollektion af simple, underholdende spil.</string>
+  <string id="31109">Forskellige Programmer opbevaret på din Xbox's Harddisk eller DVD.</string>
+  <string id="31110">Håndter dine gemte dataer, kopiér, slet eller hent nye gemte dataer fra internettet.</string>
+
+  <string id="31112">Lyt til Musik fra din PC, CD, DVD eller Xbox's Harddisk.</string>
+  <string id="31113">Betragt Billeder eller slideshows fra din PC, CD, DVD eller Xbox's Harddisk.</string>
+  <string id="31114">Afspil Videoer opbevaret på din PC, CD, DVD eller Xbox's Harddisk.</string>
+  <string id="31115">Afspil Quicktime filmtrailere fra Apple.com ved brug af Apple Movie Trailers Script</string>
+  <string id="31116">Foretag Systemvedligeholdelse, inkluderet:[CR][CR]* Håndtere din Xbox's Harddisk[CR]* Håndtere gemt Data</string>
+  <string id="31117">Tilpas dine Brugerfladeindstillinger, inkluderet:[CR][CR]* GUI Calibration[CR]* Tema udvælgelse[CR]* Pauseskærm[CR]* Dato &amp; Tid</string>
+  <string id="31118">Tilpas dine Medieindstillinger, inkluderet:[CR][CR]* Video[CR]* Musik[CR]* Billeder[CR]* Programmer</string>
+  <string id="31119">Tilpas dine Systemindstillinger, inkluderet:[CR][CR]* Generel System[CR]* Vejr[CR]* Netværksopsætning</string>
+  <string id="31120">Håndter Brugerprofiler, inkluderet:[CR][CR]* Opret Profil[CR]* Slet Profil[CR]*  Ændre brugerindstillinger</string>
+  <string id="31121">Fremvis lukketilstandsindstillinger, inkluderet:[CR][CR]* Sluk Xbox[CR]* Genstart XBMC[CR]* Genstart Xbox[CR]* Genstart til Dashboard</string>
+  <string id="31122">Konfigurer Videoindstillinger, inkluderet:[CR][CR]* Skærmjustering[CR]* Videofiltrering[CR]* Post Processing[CR]* File Views</string>
+  <string id="31123">Tilpas Lydindstillinger, inkluderet:[CR][CR]* Visualisering[CR]* Afspilningslister[CR]* CD Ripping[CR]* Karaoke</string>
+  <string id="31124">Arranger Billedeindstillinger, inkluderet:[CR][CR]* Slideshows[CR]* Thumbnails</string>
+  <string id="31125">Tilpas dine programmer og Xlink Kai Indstillinger, inkluderet:[CR][CR]* Ikon Visning[CR]* .xbe håndtering[CR]* Kai Login Detaljer</string>
+  <string id="31126">Tilpas Netværks og fildelingsindstillinger, inkluderet:[CR][CR]* Gateway &amp; DNS[CR]* Samba Fildeling[CR]* XBMC Autoopdag[CR]* FTP &amp; Web Server</string>
+  <string id="31127">Vælg Vejrvisning, inkluderet:[CR][CR]* 3 Byer[CR]* Vindhastighed[CR]* Temperatur</string>
+  <string id="31128">Vigtige Systemindstillinger, inkluderet:[CR][CR]* Auto Sluk[CR]* Autokør[CR]*Fan Hastighed[CR]* Front LED[CR]* LCD</string>
+  <string id="31129">Tjek nødvendige Systeminformationer, inkluderet:[CR][CR]* Opbevaring[CR]* Hardware[CR]* Netværk</string>
+  <string id="31130">Vis Xbox Media Centers og Temaets Rulletekster.</string>
+  <string id="31131">Vis MC360 og Team Blackbolt Skin Rulletekster.</string>
+  <string id="31132">Indsæt Spil, DVD, VCD, Lyd CD, MP3 CD eller Billede CD.</string>
+  <string id="31133">Afspil: $INFO[System.DVDLabel]</string>
+  <string id="31134">Åben Guide Bladet, til adgang af favoritter og Personlige Indstillinger.</string>
+  <string id="31135">Sluk</string>
+  <string id="31136">Genstart Xbox</string>
+  <string id="31137">Tast A for sikker nedlukning af din Xbox konsol</string>
+  <string id="31138">Foretag en Kold Genstart af din Xbox konsol, alt afspillende medie vil blive stoppet.</string>
+  <string id="31139">Genstart Xbox Media Center, dette vil stoppe alt afspillende medie.</string>
+  <string id="31140">Indlæs Dashboardet, som de har valgt i systemindstillingsbladet.</string>
+  <string id="31141">Log af din profil og vend tilbage til loginskærmen.</string>
+  <string id="31142">Aktivere eller deaktivere Master Lock for hver sektion af Xbox Media Center.</string>
+
+  <string id="31159">Deaktiver RSS Feeds</string>
+  <string id="31160">Deaktiver Beskrivelsestekst</string>
+  <string id="31161">Deaktiver Guide Knappen</string>
+  <string id="31162">Deaktiver Blade Skygger</string>
+
+  <string id="31164">Deaktiver BG Video</string>
+  <string id="31165">MC360 Medvirkende</string>
+  <string id="31166">VejrKort</string>
+  <string id="31167">InfoKort</string>
+  <string id="31168">GamerCard</string>
+  <string id="31169">Vælg Kort Type</string>
+  <string id="31170">Tid/Ur på Home Blade</string>
+  <string id="31171">Vælg Baggrundsbilledpakke</string>
+
+  <string id="31173">Brug Aktuelt Afspilningskort</string>
+  <string id="31174">Deaktiver BG Visualisering</string>
+  <string id="31175">Brug Silver GamerCard</string>
+  <string id="31176">Sidst logget ind:</string>
+  <string id="31177">Tast A for afspilning af Disc.</string>
+  <string id="31178">Plot:</string>
+  <string id="31179">Cast:</string>
+  <string id="31180">Fuldskærm Visualisering</string>
+  <string id="31181">Fuldskærm Video</string>
+  <string id="31182">Pause</string>
+  <string id="31183">Afspil</string>
+  <string id="31184">Spring Tilbage</string>
+  <string id="31185">Spring Frem</string>
+  <string id="31186">Videoindstillinger</string>
+  <string id="31187">Lydindstillinger</string>
+  <string id="31188">Afspilningsliste</string>
+  <string id="31189">Bogmærker</string>
+  <string id="31190">DVD Menu</string>
+  <string id="31191">Nuværende Tilstand:</string>
+  <string id="31192">Temperatur</string>
+
+  <string id="31195">Opdatér XBMC</string>
+
+  <string id="31197">Afspil Online Videoer</string>
+
+  <string id="31199">Kontrollér for MC360 Opdateringer</string>
+  <string id="31200">Auto Kontrollér for Opdateringer</string>
+  <string id="31201">Auto Opdatér Gamercard</string>
+  <string id="31202">Opdatér Gamercard Nu</string>
+  <string id="31203">Deaktiver Brede Ikon Etiketer</string>
+  <string id="31204">Dette vil slette alle dine gamertags indstillinger, alle Guides indstillinger og alle tilpassede baggrunde er du sikker på, at du vil fortsætte?[CR][CR][CR]</string>
+  <string id="31205">Tilføjede Skriptsindstillinger</string>
+  <string id="31206">AMT på Medie Blade</string>
+  <string id="31207">AccuWeather i Vejr</string>
+  <string id="31208">Radar</string>
+  <string id="31209">VARSEL !! Disse er Tredjepart Skripts og er ikke inkluderet i MC360. [CR][CR]Du bør have dem installeret i deres korrekte placering i scripts mappen fra XBMC, for at knapperne kan fungere korrekt.</string>
+  <string id="31210">Sangtekster</string>
+  <string id="31211">XBMC Tekster i Musik OSD</string>
+    <!-- set_gamercard -->
+  <string id="31212">GamerCard</string>
+  <string id="31213">Påvist at DNS er det mest sandsynlige,</string>
+  <string id="31214">fungerer ikke korrekt på nuværende tidspunkt.</string>
+  <string id="31215">Indstil venligst og prøv igen</string>
+  <string id="31216">Henter...</string>
+  <string id="31217">Fra Xbox.com</string>
+  <string id="31218">Hent GamerCard</string>
+  <string id="31219">Rediger GamerCard</string>
+  <string id="31220">Annullér</string>
+  <string id="31221">Indtast Xbox.com Gamertag</string>
+  <string id="31222">Blankt Navn angivet</string>
+  <string id="31223">Indstillinger forbliver uændret</string>
+  <string id="31224">Intet Internet tilgængeligt</string>
+  <string id="31225">Vil du fortsat beholde tidligere informationer?</string>
+  <!-- DialogKaiToast -->
+  <string id="31226">MC360 Bruger</string>
+  <string id="31227">har logget ind</string>
+  <!-- LoginScreen -->
+  <string id="31228">Log Ind</string>
+  <!-- updatecheck -->
+  <string id="31229">Ingen tilgængelige opdateringer</string>
+  <string id="31230">Din MC360 er opdateret med seneste version. Hver sikker på[CR]tjek opdateringer på et senere tidspunkt</string>
+  <string id="31231">Nuværende Version: %s[CR]Tilgængelig Version: %s</string>
+  <string id="31232">Opdatering tilgængelig</string>
+  <string id="31233">Der er Opdateringer Tilgængeligt for[CR]din MC360 Tema. Besøg venligst [CR]http://blackbolt.x-scene.com [CR][CR]Følg installationsinstrukserne i[CR]readme.txt filen i den downloadede .zip fil for[CR]korrekt installation til Xbox Medie Center.[CR][CR]Nuværende Version: %s[CR]Tilgængelig Version: %s</string>
+  <!-- setwallpaperpacks -->
+  <string id="31234">mappe med baggrundsbilledpakke(r)</string>
+  <string id="31235">billeder</string>
+  <string id="31236">Intet %s baggrundsbillede blev fundet</string>
+  <string id="31237">Tryk OK for at fortsætte</string>
+  <string id="31238">MC360</string>
+</strings>

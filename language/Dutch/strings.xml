@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<strings>
+  <string id="31002">Spellen</string>
+  <string id="31003">Media</string>
+
+  <string id="31005">Systeem</string>
+
+  <string id="31008">Video's</string>
+  <string id="31009">MC360 Gids</string>
+  <string id="31010">Geheugen</string>
+  <!-- These Blade Headers should be in LOWER CASE, no capitol first letters -->
+  <string id="31011">spellen</string>
+  <string id="31012">media</string>
+
+  <string id="31014">systeem</string>
+
+  <string id="31018">xbmc live</string>
+  <!-- End of LOWER CASE headers -->
+  <string id="31019">Inloggen</string>
+  <string id="31020">Berichten</string>
+  <string id="31021">Vrienden</string>
+  <string id="31022">Verbinden met Xlink Kai</string>
+  <string id="31023">Xlink KAI Niet Verbonden</string>
+  <string id="31024">Selecteren</string>
+  <string id="31025">Verkenner</string>
+
+  <string id="31027">Terug</string>
+
+  <string id="31029">Cursor</string>
+  <string id="31030">Symbolen</string>
+  <string id="31031">Shift</string>
+  <string id="31032">Caps</string>
+  <string id="31033">Spatie</string>
+  <string id="31034">Backspace</string>
+  <string id="31035">Klaar</string>
+  <string id="31036">Xbox Arcade</string>
+  <string id="31037">Programma's</string>
+
+  <string id="31040">Film Trailers</string>
+  <string id="31041">Muziek - Bestanden</string>
+  <string id="31042">Muziek - Bibliotheek</string>
+  <string id="31043">Muziek - Afspeellijst</string>
+
+  <string id="31045">Nu Spelend</string>
+  <string id="31046">Video - Bestanden</string>
+  <string id="31047">Video - Bibliotheek</string>
+  <string id="31048">Gemeenschap</string>
+  <string id="31049">XBMC Live</string>
+  <string id="31050">Favorieten</string>
+  <string id="31051">XBMC Live Place</string>
+  <string id="31052">Media Instellingen</string>
+  <string id="31053">Systeem Instellingen</string>
+  <string id="31054">Profiel Beheerder</string>
+  <string id="31055">Persoonlijke Instellingen</string>
+  <string id="31056">Selecteer Muziek</string>
+  <string id="31057">Open/Sluit Lade</string>
+  <string id="31058">Open Lade</string>
+  <string id="31059">Sluit Lade</string>
+  <string id="31060">Lezen...</string>
+  <string id="31061">Thema Aanpassen</string>
+  <string id="31062">Handmatige Achtergrong</string>
+
+  <string id="31064">Instellen Verschillende Achtergronden</string>
+  <string id="31065">Alle Achtergronden Verwijderen</string>
+  <string id="31066">BG Animatie Uitzetten</string>
+
+  <string id="31069">Gids Bladen</string>
+
+  <string id="31072">Alle Instellingen Opschonen</string>
+  <string id="31073">Geavanceerde Opties</string>
+  <string id="31074">Opties</string>
+  <string id="31075">Lijst Thumbnail Uitzetten</string>
+  <string id="31076">Muziek Thumbnail Uitzetten</string>
+  <string id="31077">Gebruik Lite Volume</string>
+
+  <string id="31080">GamerKaart Instellen</string>
+  <string id="31081">GamerKaart Instellingen</string>
+  <string id="31082">Xbox.com GamerKaart Ophalen</string>
+  <string id="31083">Gamer Tag Instellen</string>
+  <string id="31084">Gamer Afbeelding Instellen</string>
+  <string id="31085">Gamer Score Instellen</string>
+  <string id="31086">Gamer Zone Instellen</string>
+
+  <string id="31088">Handmatig Verwijderen</string>
+  <string id="31089">Toevoegen Aan Afspeellijst</string>
+  <string id="31090">Video - Afspeellijst</string>
+  <string id="31091">Verwijderen Uit Afspeellijst</string>
+  <string id="31092">Bestanden Markeren</string>
+  <string id="31093">Xlink Kai: Evolution VII</string>
+  <string id="31094">Laat je verbinden met andere xbox gebruikers overal ter wereld, en speel gratis online spellen.</string>
+  <string id="31095">XBMC Live Place</string>
+  <string id="31096">Download thema's van "XBMC Black Market Themes" pagina. Kijk internet videos en update XBMC.</string>
+
+  <string id="31099">Geïnstalleerde XBMC Scripts</string>
+
+  <string id="31101">Black Market Thema's</string>
+
+  <string id="31104">Verkennen, Kopiëren, Verwijderen, Bestanden Verplaatsen op je Xbox Harde Schijf</string>
+  <string id="31105">Bekijk de 4 daagse weersvoorspelling voor 3 verschillende locaties</string>
+  <string id="31106">Pas je Gamercard aan of verbind je Xbox.com profiel.</string>
+  <string id="31107">Speel Spellen vanaf je Xbox Harde Schijf</string>
+  <string id="31108">Verken en vermaak je met een collectie van simpele, leuke spellen.</string>
+  <string id="31109">verschillende Programma's opgeslagen op je Xbox Harde Schijf of DVD.</string>
+  <string id="31110">Beheer opgeslagen gegevens, kopieër, verwijder of download nieuwe 'saves' van het internet.</string>
+
+  <string id="31112">Luister naar Muziek vanaf je PC, CD, DVD of Xbox Harde Schijf.</string>
+  <string id="31113">Bekijk Plaatjes of diavoorstellingen vanaf je PC, CD, DVD or Xbox Harde Schijf.</string>
+  <string id="31114">Bekijk Video's vanaf je PC, CD, DVD or Xbox Harde Schijf.</string>
+  <string id="31115">Bekijk Quicktime film trailers van Apple.com m.b.v. het 'Apple Movie Trailers Script'</string>
+  <string id="31116">Voer Systeem Beheer Uit, Inclusief:[CR][CR]* Beheer je Xbox Harde Schijf[CR]* Beheer Gamesaves</string>
+  <string id="31117">Bewerk je Scherminstellingen, Inclusief:[CR][CR]* GUI Afstellen[CR]* Skin Selecteren[CR]* Schermbeveiliging[CR]* Datum &amp; Tijd</string>
+  <string id="31118">Bewerk je Media Instellingen, Inclusief:[CR][CR]* Video[CR]* Muziek[CR]* Plaatjes[CR]* Programma's</string>
+  <string id="31119">Bewerk je Systeem Instellingen, Inclusief:[CR][CR]* Algemeen Systeem[CR]* Weer[CR]* Netwerk Configuratie</string>
+  <string id="31120">Bewerk Gebruikers Profielen, Inclusief:[CR][CR]* Maak Profielen[CR]* Verwijder Profielen[CR]* Verander gebruikers instellingen</string>
+  <string id="31121">Toon afsluit opties, Inclusief:[CR][CR]* Xbox Afsluiten[CR]* XBMC Herstarten[CR]* Xbox Herstarten[CR]* Sluit en ga naar Dashboard</string>
+  <string id="31122">Configureer Video instellingen, Inclusief:[CR][CR]* Scherm Afstellen[CR]* Video filters[CR]* Nabewerking[CR]* Bestandsweergave</string>
+  <string id="31123">Configureer Geluids Instellingen, Inclusief:[CR][CR]* Visualisaties[CR]* Afspeellijsten[CR]* CD Ripping[CR]* Karaoke</string>
+  <string id="31124">Sorteer Afbeeldings Instellingen, Inclusief:[CR][CR]* Diapresentaties[CR]* Thumbnails</string>
+  <string id="31125">Je Programma's en Xlink Kai Instellingen, Inclusief:[CR][CR]* Icoon Weergave[CR]* .xbe gebruik[CR]* Kai Login Details</string>
+  <string id="31126">Configureer Netwerk and Bestanden Delen, Inclusief:[CR][CR]* Gateway &amp; DNS[CR]* Samba Bestanden Delen[CR]* XBMC Autodetect[CR]* FTP &amp; Web Server</string>
+  <string id="31127">Kies Weer Weergave, Inclusief:[CR][CR]* 3 Steden[CR]* Wind Snelheden[CR]* Temperatuur</string>
+  <string id="31128">Belangrijke Systeem Instellingen, Inclusief:[CR][CR]* Auto Afsluiten[CR]* Auto Afspelen[CR]* Fan Snelheid[CR]* Voorkant LED[CR]* LCD</string>
+  <string id="31129">Bekijk Vitale Systeem Info, Inclusief:[CR][CR]* Opslag[CR]* Hardware[CR]* Netwerk</string>
+  <string id="31130">Bekijk Xbox Media Center en Skin Credits.</string>
+  <string id="31131">Bekijk MC360 Team Blackbolt Skin Credits.</string>
+  <string id="31132">Voer een Spel, DVD, VCD, Audio CD, MP3 CD of Foto CD in.</string>
+  <string id="31133">Speel: $INFO[System.DVDLabel]</string>
+  <string id="31134">Open het Gids Blad, krijg toegang tot je favorieten en Persoonlijke Instellingen.</string>
+  <string id="31135">Afsluiten</string>
+  <string id="31136">Xbox Herstarten</string>
+  <string id="31137">Druk op A om je Xbox veilig af te sluiten</string>
+  <string id="31138">Voer een harde herstart van je Xbox uit, alle spelende media wordt gestopt.</string>
+  <string id="31139">Herstart Xbox Media Center, dit zorgt ervoor dat alle spelende media wordt gestopt.</string>
+  <string id="31140">Laad het Dashboard dat je geselecteerd hebt bij Systeem Instellingen.</string>
+  <string id="31141">Log uit met je profiel en ga terug naar het inlogscherm.</string>
+  <string id="31142">Schakel de 'Master Lock' in of uit voor elke sectie van Xbox Media Center.</string>
+
+  <string id="31159">Schakel RSS Feeds uit</string>
+  <string id="31160">Schakel Beschrijvingen uit</string>
+  <string id="31161">Schakel Gids knop uit</string>
+  <string id="31162">Schakel nevel uit</string>
+
+  <string id="31164">Schakel BG Video uit</string>
+  <string id="31165">MC360 Credits</string>
+  <string id="31166">WeerKaart</string>
+  <string id="31167">InfoKaart</string>
+  <string id="31168">GamerKaart</string>
+  <string id="31169">Kies Kaart Type</string>
+  <string id="31170">Tijd op Hoofd Bladen</string>
+  <string id="31171">Kies Achtergrond pakket</string>
+
+  <string id="31173">Gebruik 'Nu Spelend' Kaart</string>
+  <string id="31174">Schakel BG Visualisatie uit</string>
+  <string id="31175">Gebruik Zilveren GamerKaart</string>
+  <string id="31176">Laatst Ingelogde Gebruiker</string>
+  <string id="31177">Druk op A om Disk te Spelen.</string>
+  <string id="31178">Plot:</string>
+  <string id="31179">Spelers:</string>
+  <string id="31180">Volledig Scherm Visualisatie</string>
+  <string id="31181">Volledig Scherm Video</string>
+  <string id="31182">Pauze</string>
+  <string id="31183">Speel</string>
+  <string id="31184">Overslaan terug</string>
+  <string id="31185">Overslaan vooruit</string>
+  <string id="31186">Video Instellingen</string>
+  <string id="31187">Geluids Instellingen</string>
+  <string id="31188">Afspeellijts</string>
+  <string id="31189">Referenties</string>
+  <string id="31190">DVD Menu</string>
+  <string id="31191">Huidige Condities:</string>
+  <string id="31192">Temperatuur</string>
+
+  <string id="31195">Update XBMC</string>
+
+  <string id="31197">Bekijk Online Videos</string>
+
+  <string id="31199">Check voor MC360 Updates</string>
+  <string id="31200">Auto Check voor Updates</string>
+  <string id="31201">Auto Update Gamerkaart</string>
+  <string id="31202">Update Gamerkaart Nu</string>
+  <string id="31203">Schakel Brede Wide Icon Labels Uit.</string>
+  <string id="31204">Dit zal al je gamertag Instellingen, alle Gids opties en alle handmatige achtergronden herstellen. Ben je zeker dat je door wil gaan?[CR][CR][CR]</string>
+  <string id="31205">Toegevoegde Scripts Opties</string>
+  <string id="31206">AMT op Media Blad</string>
+  <string id="31207">AccuWeather in Weer</string>
+  <string id="31208">Radar</string>
+  <string id="31209">OPGELET!! Dit zijn 'Third Party Scripts' en deze zijn niet inbegrepen in MC360. [CR][CR]Je moet ze geïnstalleerd hebben op de goede locaties in de scripts map van XBMC als je wil dat de knoppen werken.</string>
+  <string id="31210">Lied Teksten</string>
+  <string id="31211">XBMC Lied Teksten in Muziek OSD</string>
+</strings>
